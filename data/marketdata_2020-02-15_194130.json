@@ -1,0 +1,8433 @@
+{
+  "meta": {
+    "timestamp": "2020-02-15_194130",
+    "errors": [],
+    "num_pairs": 702
+  },
+  "data": [
+    {
+      "from": "ATOM",
+      "to": "BTC",
+      "market_info": {
+        "pair": "ATOM_BTC",
+        "rate": 0.00046878,
+        "minerFee": 0.000105,
+        "limit": 835.49595512,
+        "minimum": 0.44549309,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "BTC_ATOM",
+        "rate": 2103.8604202,
+        "minerFee": 0.1,
+        "limit": 0.16971079,
+        "minimum": 9.458e-05,
+        "maxLimit": 0.16971079
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "BCH",
+      "market_info": {
+        "pair": "ATOM_BCH",
+        "rate": 0.01033103,
+        "minerFee": 0.0001,
+        "limit": 835.49595512,
+        "minimum": 0.0192382,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "BCH_ATOM",
+        "rate": 95.28663716,
+        "minerFee": 0.1,
+        "limit": 3.74698631,
+        "minimum": 0.00208826,
+        "maxLimit": 3.74698631
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "BNT",
+      "market_info": {
+        "pair": "ATOM_BNT",
+        "rate": 14.10172192,
+        "minerFee": 1,
+        "limit": 570.71306706,
+        "minimum": 0.1396931,
+        "maxLimit": 570.71306706
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "BNT_ATOM",
+        "rate": 0.06910278,
+        "minerFee": 0.1,
+        "limit": 5165.41498321,
+        "minimum": 2.87876861,
+        "maxLimit": 5165.41498321
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "BLK",
+      "market_info": {
+        "pair": "ATOM_BLK",
+        "rate": 100.92817223,
+        "minerFee": 0.02,
+        "limit": 638.42069464,
+        "minimum": 0.0003329,
+        "maxLimit": 638.42069464
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "BLK_ATOM",
+        "rate": 0.00747189,
+        "minerFee": 0.1,
+        "limit": 40131.27528357,
+        "minimum": 24.7149529,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "CVC",
+      "market_info": {
+        "pair": "ATOM_CVC",
+        "rate": 127.40159758,
+        "minerFee": 7.4577,
+        "limit": 835.49595512,
+        "minimum": 0.11585988,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "CVC_ATOM",
+        "rate": 0.00765913,
+        "minerFee": 0.1,
+        "limit": 46507.19778218,
+        "minimum": 25.9192072,
+        "maxLimit": 46507.19778218
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "DASH",
+      "market_info": {
+        "pair": "ATOM_DASH",
+        "rate": 0.03818666,
+        "minerFee": 0.002,
+        "limit": 835.49595512,
+        "minimum": 0.10402912,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "DASH_ATOM",
+        "rate": 25.72423459,
+        "minerFee": 0.1,
+        "limit": 13.86516964,
+        "minimum": 0.00772728,
+        "maxLimit": 13.86516964
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "DGB",
+      "market_info": {
+        "pair": "ATOM_DGB",
+        "rate": 565.57918662,
+        "minerFee": 0.01,
+        "limit": 835.49595512,
+        "minimum": 3.482e-05,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "DGB_ATOM",
+        "rate": 0.00170305,
+        "minerFee": 0.1,
+        "limit": 209642.87952907,
+        "minimum": 116.83733901,
+        "maxLimit": 209642.87952907
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "DNT",
+      "market_info": {
+        "pair": "ATOM_DNT",
+        "rate": 526.61413956,
+        "minerFee": 189,
+        "limit": 835.49595512,
+        "minimum": 0.71384972,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "DNT_ATOM",
+        "rate": 0.00185087,
+        "minerFee": 0.1,
+        "limit": 192899.17261929,
+        "minimum": 107.50580261,
+        "maxLimit": 192899.17261929
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "ATOM_DOGE",
+        "rate": 1562.28861403,
+        "minerFee": 2,
+        "limit": 835.49595512,
+        "minimum": 0.00254628,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "DOGE_ATOM",
+        "rate": 0.00060995,
+        "minerFee": 0.1,
+        "limit": 585349.21346542,
+        "minimum": 326.22450448,
+        "maxLimit": 585349.21346542
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "ETH",
+      "market_info": {
+        "pair": "ATOM_ETH",
+        "rate": 0.01725337,
+        "minerFee": 0.0013,
+        "limit": 835.49595512,
+        "minimum": 0.14986729,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "ETH_ATOM",
+        "rate": 57.14851676,
+        "minerFee": 0.1,
+        "limit": 6.24475856,
+        "minimum": 0.0034803,
+        "maxLimit": 6.24475856
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "ETC",
+      "market_info": {
+        "pair": "ATOM_ETC",
+        "rate": 0.44224161,
+        "minerFee": 0.001,
+        "limit": 835.49595512,
+        "minimum": 0.00449716,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "ETC_ATOM",
+        "rate": 2.22563433,
+        "minerFee": 0.1,
+        "limit": 160.29393003,
+        "minimum": 0.08933438,
+        "maxLimit": 160.29393003
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "GNT",
+      "market_info": {
+        "pair": "ATOM_GNT",
+        "rate": 60.10733967,
+        "minerFee": 6,
+        "limit": 835.49595512,
+        "minimum": 0.19810062,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "GNT_ATOM",
+        "rate": 0.01621818,
+        "minerFee": 0.1,
+        "limit": 21882.8263426,
+        "minimum": 12.19565008,
+        "maxLimit": 21882.8263426
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "LTC",
+      "market_info": {
+        "pair": "ATOM_LTC",
+        "rate": 0.05858259,
+        "minerFee": 0.004,
+        "limit": 835.49595512,
+        "minimum": 0.13575739,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "LTC_ATOM",
+        "rate": 16.84012929,
+        "minerFee": 0.1,
+        "limit": 21.19241847,
+        "minimum": 0.01181087,
+        "maxLimit": 21.19241847
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "MANA",
+      "market_info": {
+        "pair": "ATOM_MANA",
+        "rate": 79.22477869,
+        "minerFee": 10,
+        "limit": 835.49595512,
+        "minimum": 0.25038424,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "MANA_ATOM",
+        "rate": 0.01234822,
+        "minerFee": 0.1,
+        "limit": 28879.37626166,
+        "minimum": 16.09493956,
+        "maxLimit": 28879.37626166
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "MKR",
+      "market_info": {
+        "pair": "ATOM_MKR",
+        "rate": 0.00757421,
+        "minerFee": 0.0007,
+        "limit": 835.49595512,
+        "minimum": 0.18386828,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "MKR_ATOM",
+        "rate": 126.46010931,
+        "minerFee": 0.1,
+        "limit": 2.80779696,
+        "minimum": 0.00156483,
+        "maxLimit": 2.80779696
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "REP",
+      "market_info": {
+        "pair": "ATOM_REP",
+        "rate": 0.31459148,
+        "minerFee": 0.04,
+        "limit": 835.49595512,
+        "minimum": 0.25287976,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "REP",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "REP_ATOM",
+        "rate": 3.1302016,
+        "minerFee": 0.1,
+        "limit": 114.00354057,
+        "minimum": 0.063536,
+        "maxLimit": 114.00354057
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "RDD",
+      "market_info": {
+        "pair": "ATOM_RDD",
+        "rate": 4260.65138612,
+        "minerFee": 0.1,
+        "limit": 835.49595512,
+        "minimum": 4.669e-05,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "RDD_ATOM",
+        "rate": 0.00021019,
+        "minerFee": 0.1,
+        "limit": 1698107.3241855,
+        "minimum": 946.38244596,
+        "maxLimit": 1698107.3241855
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "RCN",
+      "market_info": {
+        "pair": "ATOM_RCN",
+        "rate": 68.42205824,
+        "minerFee": 25.4089,
+        "limit": 835.49595512,
+        "minimum": 0.72887064,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "RCN_ATOM",
+        "rate": 0.01416218,
+        "minerFee": 0.1,
+        "limit": 25185.64865059,
+        "minimum": 14.03636592,
+        "maxLimit": 25185.64865059
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "RLC",
+      "market_info": {
+        "pair": "ATOM_RLC",
+        "rate": 6.82141152,
+        "minerFee": 1,
+        "limit": 835.49595512,
+        "minimum": 0.29165152,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "RLC_ATOM",
+        "rate": 0.1441056,
+        "minerFee": 0.1,
+        "limit": 2472.70607291,
+        "minimum": 1.37807875,
+        "maxLimit": 2472.70607291
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "SC",
+      "market_info": {
+        "pair": "ATOM_SC",
+        "rate": 1573.81890473,
+        "minerFee": 5.588,
+        "limit": 835.49595512,
+        "minimum": 0.00699662,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "SC",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "SC_ATOM",
+        "rate": 0.00060973,
+        "minerFee": 0.1,
+        "limit": 585267.84480075,
+        "minimum": 326.17915641,
+        "maxLimit": 585267.84480075
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "SNT",
+      "market_info": {
+        "pair": "ATOM_SNT",
+        "rate": 209.83198762,
+        "minerFee": 45,
+        "limit": 835.49595512,
+        "minimum": 0.42568491,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "SNT_ATOM",
+        "rate": 0.00466743,
+        "minerFee": 0.1,
+        "limit": 76464.53689413,
+        "minimum": 42.61491275,
+        "maxLimit": 76464.53689413
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "ATOM_TUSD",
+        "rate": 4.65892005,
+        "minerFee": 0.35,
+        "limit": 835.49595512,
+        "minimum": 0.14865569,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "TUSD_ATOM",
+        "rate": 0.21006833,
+        "minerFee": 0.1,
+        "limit": 1697.08907074,
+        "minimum": 0.94581496,
+        "maxLimit": 1697.08907074
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "XMR",
+      "market_info": {
+        "pair": "ATOM_XMR",
+        "rate": 0.0511186,
+        "minerFee": 0.001,
+        "limit": 835.49595512,
+        "minimum": 0.03891189,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "XMR_ATOM",
+        "rate": 19.27079246,
+        "minerFee": 0.1,
+        "limit": 18.51562739,
+        "minimum": 0.01031906,
+        "maxLimit": 18.51562739
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "XRP",
+      "market_info": {
+        "pair": "ATOM_XRP",
+        "rate": 14.81563921,
+        "minerFee": 0.15,
+        "limit": 835.49595512,
+        "minimum": 0.02013959,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "XRP_ATOM",
+        "rate": 0.06724132,
+        "minerFee": 0.1,
+        "limit": 5307.64776754,
+        "minimum": 2.95803722,
+        "maxLimit": 5307.64776754
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "ATOM_ZEC",
+        "rate": 0.07087155,
+        "minerFee": 0.0005,
+        "limit": 835.49595512,
+        "minimum": 0.01403466,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "ZEC_ATOM",
+        "rate": 13.89261277,
+        "minerFee": 0.1,
+        "limit": 25.68486487,
+        "minimum": 0.01431459,
+        "maxLimit": 25.68486487
+      }
+    },
+    {
+      "from": "ATOM",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "ATOM_ZRX",
+        "rate": 14.46487833,
+        "minerFee": 2,
+        "limit": 835.49595512,
+        "minimum": 0.27496658,
+        "maxLimit": 835.49595512
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "ATOM",
+      "market_info": {
+        "pair": "ZRX_ATOM",
+        "rate": 0.06785911,
+        "minerFee": 0.1,
+        "limit": 5244.33966968,
+        "minimum": 2.92275461,
+        "maxLimit": 5243.6931809
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "BCH",
+      "market_info": {
+        "pair": "BTC_BCH",
+        "rate": 21.92649333,
+        "minerFee": 0.0001,
+        "limit": 2.55364661,
+        "minimum": 9.07e-06,
+        "maxLimit": 2.55364661
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "BTC",
+      "market_info": {
+        "pair": "BCH_BTC",
+        "rate": 0.04504304,
+        "minerFee": 0.000105,
+        "limit": 56.37860015,
+        "minimum": 0.00463631,
+        "maxLimit": 56.37860015
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "BNT",
+      "market_info": {
+        "pair": "BTC_BNT",
+        "rate": 29792.25937984,
+        "minerFee": 1,
+        "limit": 0.27033511,
+        "minimum": 6.617e-05,
+        "maxLimit": 0.27033511
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "BTC",
+      "market_info": {
+        "pair": "BNT_BTC",
+        "rate": 3.269e-05,
+        "minerFee": 0.000105,
+        "limit": 8960.81908931,
+        "minimum": 6.3897367,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "BLK",
+      "market_info": {
+        "pair": "BTC_BLK",
+        "rate": 214183.64576617,
+        "minerFee": 0.02,
+        "limit": 0.30094371,
+        "minimum": 1.6e-07,
+        "maxLimit": 0.30094371
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "BTC",
+      "market_info": {
+        "pair": "BLK_BTC",
+        "rate": 3.5e-06,
+        "minerFee": 0.000105,
+        "limit": 40131.27528357,
+        "minimum": 54.87418656,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "CVC",
+      "market_info": {
+        "pair": "BTC_CVC",
+        "rate": 270371.32134934,
+        "minerFee": 7.4577,
+        "limit": 0.43965873,
+        "minimum": 5.461e-05,
+        "maxLimit": 0.43965873
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "BTC",
+      "market_info": {
+        "pair": "CVC_BTC",
+        "rate": 3.62e-06,
+        "minerFee": 0.000105,
+        "limit": 120522.7035613,
+        "minimum": 57.56014864,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "DASH",
+      "market_info": {
+        "pair": "BTC_DASH",
+        "rate": 81.03392476,
+        "minerFee": 0.002,
+        "limit": 1.05150154,
+        "minimum": 4.906e-05,
+        "maxLimit": 1.05150154
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "BTC",
+      "market_info": {
+        "pair": "DASH_BTC",
+        "rate": 0.01215435,
+        "minerFee": 0.000105,
+        "limit": 85.94566445,
+        "minimum": 0.01716459,
+        "maxLimit": 85.94566445
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "DGB",
+      "market_info": {
+        "pair": "BTC_DGB",
+        "rate": 1200138.45228092,
+        "minerFee": 0.01,
+        "limit": 0.50071502,
+        "minimum": 2e-08,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "BTC",
+      "market_info": {
+        "pair": "DGB_BTC",
+        "rate": 8.1e-07,
+        "minerFee": 0.000105,
+        "limit": 618661.62195196,
+        "minimum": 259.46683273,
+        "maxLimit": 618661.62195196
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "DNT",
+      "market_info": {
+        "pair": "BTC_DNT",
+        "rate": 1117474.66449087,
+        "minerFee": 189,
+        "limit": 0.50071502,
+        "minimum": 0.00033657,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "BTC",
+      "market_info": {
+        "pair": "DNT_BTC",
+        "rate": 8.7e-07,
+        "minerFee": 0.000105,
+        "limit": 569250.50482951,
+        "minimum": 238.74379835,
+        "maxLimit": 569250.50482951
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "BTC_DOGE",
+        "rate": 3315174.83798957,
+        "minerFee": 2,
+        "limit": 1.05150154,
+        "minimum": 1.2e-06,
+        "maxLimit": 1.05150154
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "BTC",
+      "market_info": {
+        "pair": "DOGE_BTC",
+        "rate": 2.9e-07,
+        "minerFee": 0.000105,
+        "limit": 3627499.76870669,
+        "minimum": 724.46393981,
+        "maxLimit": 3627499.76870669
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "ETH",
+      "market_info": {
+        "pair": "BTC_ETH",
+        "rate": 36.57264342,
+        "minerFee": 0.0013,
+        "limit": 5.00715021,
+        "minimum": 7.07e-05,
+        "maxLimit": 5.00715021
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "BTC",
+      "market_info": {
+        "pair": "ETH_BTC",
+        "rate": 0.02699618,
+        "minerFee": 0.000105,
+        "limit": 184.37941928,
+        "minimum": 0.00773288,
+        "maxLimit": 184.37941928
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "ETC",
+      "market_info": {
+        "pair": "BTC_ETC",
+        "rate": 937.53335255,
+        "minerFee": 0.001,
+        "limit": 1.05150154,
+        "minimum": 2.12e-06,
+        "maxLimit": 1.05150154
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "BTC",
+      "market_info": {
+        "pair": "ETC_BTC",
+        "rate": 0.00105283,
+        "minerFee": 0.000105,
+        "limit": 992.99125252,
+        "minimum": 0.19831465,
+        "maxLimit": 992.99125252
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "GNT",
+      "market_info": {
+        "pair": "BTC_GNT",
+        "rate": 127553.91518356,
+        "minerFee": 6,
+        "limit": 0.50071502,
+        "minimum": 9.316e-05,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "BTC",
+      "market_info": {
+        "pair": "GNT_BTC",
+        "rate": 7.66e-06,
+        "minerFee": 0.000105,
+        "limit": 64576.79301303,
+        "minimum": 27.08352249,
+        "maxLimit": 64576.79301303
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "LTC",
+      "market_info": {
+        "pair": "BTC_LTC",
+        "rate": 124.22894802,
+        "minerFee": 0.004,
+        "limit": 2.55364661,
+        "minimum": 6.401e-05,
+        "maxLimit": 2.55364661
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "BTC",
+      "market_info": {
+        "pair": "LTC_BTC",
+        "rate": 0.0079671,
+        "minerFee": 0.000105,
+        "limit": 318.68879319,
+        "minimum": 0.02620748,
+        "maxLimit": 318.68879319
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "MANA",
+      "market_info": {
+        "pair": "BTC_MANA",
+        "rate": 168134.62941502,
+        "minerFee": 10,
+        "limit": 0.50071502,
+        "minimum": 0.00011785,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "BTC",
+      "market_info": {
+        "pair": "MANA_BTC",
+        "rate": 5.84e-06,
+        "minerFee": 0.000105,
+        "limit": 85223.79486073,
+        "minimum": 35.74288002,
+        "maxLimit": 85223.79486073
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "MKR",
+      "market_info": {
+        "pair": "BTC_MKR",
+        "rate": 16.06611559,
+        "minerFee": 0.0007,
+        "limit": 0.50071502,
+        "minimum": 8.669e-05,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "BTC",
+      "market_info": {
+        "pair": "MKR_BTC",
+        "rate": 0.05966067,
+        "minerFee": 0.000105,
+        "limit": 8.28588228,
+        "minimum": 0.0034751,
+        "maxLimit": 8.28588228
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "REP",
+      "market_info": {
+        "pair": "BTC_REP",
+        "rate": 667.32845393,
+        "minerFee": 0.04,
+        "limit": 0.50071502,
+        "minimum": 0.00011923,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "REP",
+      "to": "BTC",
+      "market_info": {
+        "pair": "REP_BTC",
+        "rate": 0.00147781,
+        "minerFee": 0.000105,
+        "limit": 336.42743066,
+        "minimum": 0.14109775,
+        "maxLimit": 336.42743066
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "RDD",
+      "market_info": {
+        "pair": "BTC_RDD",
+        "rate": 9038223.96628152,
+        "minerFee": 0.1,
+        "limit": 0.50071502,
+        "minimum": 2e-08,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "BTC",
+      "market_info": {
+        "pair": "RDD_BTC",
+        "rate": 1e-07,
+        "minerFee": 0.000105,
+        "limit": 3751201.13297663,
+        "minimum": 2101.68134508,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "RCN",
+      "market_info": {
+        "pair": "BTC_RCN",
+        "rate": 145010.10563547,
+        "minerFee": 25.4089,
+        "limit": 0.47405226,
+        "minimum": 0.00034368,
+        "maxLimit": 0.47405226
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "BTC",
+      "market_info": {
+        "pair": "RCN_BTC",
+        "rate": 6.68e-06,
+        "minerFee": 0.000105,
+        "limit": 66252.64368584,
+        "minimum": 31.17129711,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "RLC",
+      "market_info": {
+        "pair": "BTC_RLC",
+        "rate": 14470.42705364,
+        "minerFee": 1,
+        "limit": 0.50071502,
+        "minimum": 0.00013752,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "BTC",
+      "market_info": {
+        "pair": "RLC_BTC",
+        "rate": 6.785e-05,
+        "minerFee": 0.000105,
+        "limit": 7297.02030954,
+        "minimum": 3.06037207,
+        "maxLimit": 7297.02030954
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "SC",
+      "market_info": {
+        "pair": "BTC_SC",
+        "rate": 3335394.72443476,
+        "minerFee": 5.588,
+        "limit": 0.50071502,
+        "minimum": 3.3e-06,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "SC",
+      "to": "BTC",
+      "market_info": {
+        "pair": "SC_BTC",
+        "rate": 2.9e-07,
+        "minerFee": 0.000105,
+        "limit": 1727140.72118314,
+        "minimum": 724.36323298,
+        "maxLimit": 1727140.72118314
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "SNT",
+      "market_info": {
+        "pair": "BTC_SNT",
+        "rate": 441942.34977464,
+        "minerFee": 45,
+        "limit": 0.50071502,
+        "minimum": 0.00020169,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "BTC",
+      "market_info": {
+        "pair": "SNT_BTC",
+        "rate": 2.2e-06,
+        "minerFee": 0.000105,
+        "limit": 225648.84876125,
+        "minimum": 94.63718133,
+        "maxLimit": 225648.84876125
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "BTC_TUSD",
+        "rate": 9872.97102569,
+        "minerFee": 0.35,
+        "limit": 0.50071502,
+        "minimum": 7.012e-05,
+        "maxLimit": 0.50071502
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "BTC",
+      "market_info": {
+        "pair": "TUSD_BTC",
+        "rate": 9.932e-05,
+        "minerFee": 0.000105,
+        "limit": 5008.15424526,
+        "minimum": 2.10042109,
+        "maxLimit": 5008.15424526
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "XMR",
+      "market_info": {
+        "pair": "BTC_XMR",
+        "rate": 108.36167997,
+        "minerFee": 0.001,
+        "limit": 1.05150154,
+        "minimum": 1.835e-05,
+        "maxLimit": 1.05150154
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "BTC",
+      "market_info": {
+        "pair": "XMR_BTC",
+        "rate": 0.00910866,
+        "minerFee": 0.000105,
+        "limit": 114.74421171,
+        "minimum": 0.02291607,
+        "maxLimit": 114.74421171
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "XRP",
+      "market_info": {
+        "pair": "BTC_XRP",
+        "rate": 31402.73894949,
+        "minerFee": 0.15,
+        "limit": 1.05189235,
+        "minimum": 9.5e-06,
+        "maxLimit": 1.05189235
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "BTC",
+      "market_info": {
+        "pair": "XRP_BTC",
+        "rate": 3.147e-05,
+        "minerFee": 0.000105,
+        "limit": 33239.60578045,
+        "minimum": 6.63596155,
+        "maxLimit": 33239.60578045
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "BTC_ZEC",
+        "rate": 150.10239475,
+        "minerFee": 0.0005,
+        "limit": 1.05189235,
+        "minimum": 6.62e-06,
+        "maxLimit": 1.05189235
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "BTC",
+      "market_info": {
+        "pair": "ZEC_BTC",
+        "rate": 0.00656921,
+        "minerFee": 0.000105,
+        "limit": 159.20815719,
+        "minimum": 0.03178435,
+        "maxLimit": 159.20815719
+      }
+    },
+    {
+      "from": "BTC",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "BTC_ZRX",
+        "rate": 30662.23765756,
+        "minerFee": 2,
+        "limit": 0.50090112,
+        "minimum": 0.00012977,
+        "maxLimit": 0.50090112
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "BTC",
+      "market_info": {
+        "pair": "ZRX_BTC",
+        "rate": 3.202e-05,
+        "minerFee": 0.000105,
+        "limit": 15475.38653212,
+        "minimum": 6.48796945,
+        "maxLimit": 15475.38653212
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "BNT",
+      "market_info": {
+        "pair": "BCH_BNT",
+        "rate": 1349.9667514,
+        "minerFee": 1,
+        "limit": 5.96919427,
+        "minimum": 0.00146108,
+        "maxLimit": 5.96919427
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "BCH",
+      "market_info": {
+        "pair": "BNT_BCH",
+        "rate": 0.00072047,
+        "minerFee": 0.0001,
+        "limit": 8960.81908931,
+        "minimum": 0.27574487,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "BLK",
+      "market_info": {
+        "pair": "BCH_BLK",
+        "rate": 9674.63951292,
+        "minerFee": 0.02,
+        "limit": 6.64706441,
+        "minimum": 3.47e-06,
+        "maxLimit": 6.64706441
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "BCH",
+      "market_info": {
+        "pair": "BLK_BCH",
+        "rate": 7.636e-05,
+        "minerFee": 0.0001,
+        "limit": 40131.27528357,
+        "minimum": 2.38266203,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "CVC",
+      "market_info": {
+        "pair": "BCH_CVC",
+        "rate": 12232.90306007,
+        "minerFee": 7.4577,
+        "limit": 9.71091846,
+        "minimum": 0.0012063,
+        "maxLimit": 9.71091846
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "BCH",
+      "market_info": {
+        "pair": "CVC_BCH",
+        "rate": 7.974e-05,
+        "minerFee": 0.0001,
+        "limit": 120522.7035613,
+        "minimum": 2.48623661,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "DASH",
+      "market_info": {
+        "pair": "BCH_DASH",
+        "rate": 3.66484415,
+        "minerFee": 0.002,
+        "limit": 23.23356795,
+        "minimum": 0.00108357,
+        "maxLimit": 23.23356795
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "BCH",
+      "market_info": {
+        "pair": "DASH_BCH",
+        "rate": 0.26799487,
+        "minerFee": 0.0001,
+        "limit": 85.90040968,
+        "minimum": 0.00074074,
+        "maxLimit": 85.90040968
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "DGB",
+      "market_info": {
+        "pair": "BCH_DGB",
+        "rate": 54313.25043153,
+        "minerFee": 0.01,
+        "limit": 11.06360379,
+        "minimum": 3.6e-07,
+        "maxLimit": 11.06360379
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "BCH",
+      "market_info": {
+        "pair": "DGB_BCH",
+        "rate": 1.776e-05,
+        "minerFee": 0.0001,
+        "limit": 618891.55907058,
+        "minimum": 11.2073362,
+        "maxLimit": 618891.55907058
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "DNT",
+      "market_info": {
+        "pair": "BCH_DNT",
+        "rate": 50568.8824751,
+        "minerFee": 189,
+        "limit": 11.06360379,
+        "minimum": 0.00743399,
+        "maxLimit": 11.06360379
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "BCH",
+      "market_info": {
+        "pair": "DNT_BCH",
+        "rate": 1.927e-05,
+        "minerFee": 0.0001,
+        "limit": 569462.07738583,
+        "minimum": 10.31109399,
+        "maxLimit": 569462.07738583
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "BCH_DOGE",
+        "rate": 149982.87004341,
+        "minerFee": 2,
+        "limit": 23.23356795,
+        "minimum": 2.652e-05,
+        "maxLimit": 23.23356795
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "BCH",
+      "market_info": {
+        "pair": "DOGE_BCH",
+        "rate": 6.36e-06,
+        "minerFee": 0.0001,
+        "limit": 3628847.99658283,
+        "minimum": 31.28883694,
+        "maxLimit": 3628847.99658283
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "ETH",
+      "market_info": {
+        "pair": "BCH_ETH",
+        "rate": 1.65484359,
+        "minerFee": 0.0013,
+        "limit": 56.42437932,
+        "minimum": 0.00156123,
+        "maxLimit": 56.42437932
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "BCH",
+      "market_info": {
+        "pair": "ETH_BCH",
+        "rate": 0.59514876,
+        "minerFee": 0.0001,
+        "limit": 94.06152896,
+        "minimum": 0.00033395,
+        "maxLimit": 94.06152896
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "ETC",
+      "market_info": {
+        "pair": "BCH_ETC",
+        "rate": 42.46477973,
+        "minerFee": 0.001,
+        "limit": 23.21819845,
+        "minimum": 4.679e-05,
+        "maxLimit": 23.21819845
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "BCH",
+      "market_info": {
+        "pair": "ETC_BCH",
+        "rate": 0.0231939,
+        "minerFee": 0.0001,
+        "limit": 993.34462231,
+        "minimum": 0.00856298,
+        "maxLimit": 993.34462231
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "GNT",
+      "market_info": {
+        "pair": "BCH_GNT",
+        "rate": 5774.37960974,
+        "minerFee": 6,
+        "limit": 11.05628498,
+        "minimum": 0.00206164,
+        "maxLimit": 11.05628498
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "BCH",
+      "market_info": {
+        "pair": "GNT_BCH",
+        "rate": 0.0001688,
+        "minerFee": 0.0001,
+        "limit": 64600.79418134,
+        "minimum": 1.1697089,
+        "maxLimit": 64600.79418134
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "LTC",
+      "market_info": {
+        "pair": "BCH_LTC",
+        "rate": 5.62284385,
+        "minerFee": 0.004,
+        "limit": 56.38705338,
+        "minimum": 0.00141283,
+        "maxLimit": 56.38705338
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "BCH",
+      "market_info": {
+        "pair": "LTC_BCH",
+        "rate": 0.17568622,
+        "minerFee": 0.0001,
+        "limit": 318.83056428,
+        "minimum": 0.00113186,
+        "maxLimit": 318.83056428
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "MANA",
+      "market_info": {
+        "pair": "BCH_MANA",
+        "rate": 7617.11923892,
+        "minerFee": 10,
+        "limit": 11.05628498,
+        "minimum": 0.00260134,
+        "maxLimit": 11.05628498
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "BCH",
+      "market_info": {
+        "pair": "MANA_BCH",
+        "rate": 0.00012867,
+        "minerFee": 0.0001,
+        "limit": 85255.46987197,
+        "minimum": 1.54356124,
+        "maxLimit": 85255.46987197
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "MKR",
+      "market_info": {
+        "pair": "BCH_MKR",
+        "rate": 0.72786677,
+        "minerFee": 0.0007,
+        "limit": 11.05628498,
+        "minimum": 0.00191353,
+        "maxLimit": 11.05628498
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "BCH",
+      "market_info": {
+        "pair": "MKR_BCH",
+        "rate": 1.31550174,
+        "minerFee": 0.0001,
+        "limit": 8.28896188,
+        "minimum": 0.00015007,
+        "maxLimit": 8.28896188
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "REP",
+      "market_info": {
+        "pair": "BCH_REP",
+        "rate": 30.23299679,
+        "minerFee": 0.04,
+        "limit": 11.05628498,
+        "minimum": 0.00263173,
+        "maxLimit": 11.05628498
+      }
+    },
+    {
+      "from": "REP",
+      "to": "BCH",
+      "market_info": {
+        "pair": "REP_BCH",
+        "rate": 0.03259962,
+        "minerFee": 0.0001,
+        "limit": 336.55247018,
+        "minimum": 0.00609333,
+        "maxLimit": 336.55247018
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "RDD",
+      "market_info": {
+        "pair": "BCH_RDD",
+        "rate": 409473.3319291,
+        "minerFee": 0.1,
+        "limit": 11.05628498,
+        "minimum": 4.9e-07,
+        "maxLimit": 11.05628498
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "BCH",
+      "market_info": {
+        "pair": "RDD_BCH",
+        "rate": 2.19e-06,
+        "minerFee": 0.0001,
+        "limit": 3751201.13297663,
+        "minimum": 90.76140072,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "RCN",
+      "market_info": {
+        "pair": "BCH_RCN",
+        "rate": 6569.3476338,
+        "minerFee": 25.4089,
+        "limit": 10.46365567,
+        "minimum": 0.00758604,
+        "maxLimit": 10.46365567
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "BCH",
+      "market_info": {
+        "pair": "RCN_BCH",
+        "rate": 0.00014707,
+        "minerFee": 0.0001,
+        "limit": 66252.64368584,
+        "minimum": 1.34402389,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "RLC",
+      "market_info": {
+        "pair": "BCH_RLC",
+        "rate": 655.57724639,
+        "minerFee": 1,
+        "limit": 11.05628498,
+        "minimum": 0.00303549,
+        "maxLimit": 11.05628498
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "BCH",
+      "market_info": {
+        "pair": "RLC_BCH",
+        "rate": 0.00150239,
+        "minerFee": 0.0001,
+        "limit": 7299.7323831,
+        "minimum": 0.13215093,
+        "maxLimit": 7299.7323831
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "SC",
+      "market_info": {
+        "pair": "BCH_SC",
+        "rate": 151108.45906948,
+        "minerFee": 5.588,
+        "limit": 11.05628498,
+        "minimum": 7.282e-05,
+        "maxLimit": 11.05628498
+      }
+    },
+    {
+      "from": "SC",
+      "to": "BCH",
+      "market_info": {
+        "pair": "SC_BCH",
+        "rate": 6.36e-06,
+        "minerFee": 0.0001,
+        "limit": 1727782.64521203,
+        "minimum": 31.27896608,
+        "maxLimit": 1727782.64521203
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "SNT",
+      "market_info": {
+        "pair": "BCH_SNT",
+        "rate": 20007.47660965,
+        "minerFee": 45,
+        "limit": 11.06116311,
+        "minimum": 0.00445384,
+        "maxLimit": 11.06116311
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "BCH",
+      "market_info": {
+        "pair": "SNT_BCH",
+        "rate": 4.85e-05,
+        "minerFee": 0.0001,
+        "limit": 225732.71536015,
+        "minimum": 4.08655913,
+        "maxLimit": 225732.71536015
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "BCH_TUSD",
+        "rate": 447.02482053,
+        "minerFee": 0.35,
+        "limit": 11.06116311,
+        "minimum": 0.00154841,
+        "maxLimit": 11.06116311
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "BCH",
+      "market_info": {
+        "pair": "TUSD_BCH",
+        "rate": 0.00219039,
+        "minerFee": 0.0001,
+        "limit": 5010.0156191,
+        "minimum": 0.09069897,
+        "maxLimit": 5010.0156191
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "XMR",
+      "market_info": {
+        "pair": "BCH_XMR",
+        "rate": 4.90728322,
+        "minerFee": 0.001,
+        "limit": 23.22844252,
+        "minimum": 0.00040518,
+        "maxLimit": 23.22844252
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "BCH",
+      "market_info": {
+        "pair": "XMR_BCH",
+        "rate": 0.20078874,
+        "minerFee": 0.0001,
+        "limit": 114.79938028,
+        "minimum": 0.00098965,
+        "maxLimit": 114.79938028
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "XRP",
+      "market_info": {
+        "pair": "BCH_XRP",
+        "rate": 1422.1621451,
+        "minerFee": 0.15,
+        "limit": 23.22844252,
+        "minimum": 0.00020977,
+        "maxLimit": 23.22844252
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "BCH",
+      "market_info": {
+        "pair": "XRP_BCH",
+        "rate": 0.00069358,
+        "minerFee": 0.0001,
+        "limit": 32904.54061391,
+        "minimum": 0.28366112,
+        "maxLimit": 32904.54061391
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "BCH_ZEC",
+        "rate": 6.79604317,
+        "minerFee": 0.0005,
+        "limit": 23.22844252,
+        "minimum": 0.00014625,
+        "maxLimit": 23.22844252
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "BCH",
+      "market_info": {
+        "pair": "ZEC_BCH",
+        "rate": 0.14473671,
+        "minerFee": 0.0001,
+        "limit": 159.29580933,
+        "minimum": 0.00137325,
+        "maxLimit": 159.29580933
+      }
+    },
+    {
+      "from": "BCH",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "BCH_ZRX",
+        "rate": 1388.08707907,
+        "minerFee": 2,
+        "limit": 11.06116311,
+        "minimum": 0.00286583,
+        "maxLimit": 11.06116311
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "BCH",
+      "market_info": {
+        "pair": "ZRX_BCH",
+        "rate": 0.00070631,
+        "minerFee": 0.0001,
+        "limit": 15475.38653212,
+        "minimum": 0.28015913,
+        "maxLimit": 15475.38653212
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "BLK",
+      "market_info": {
+        "pair": "BNT_BLK",
+        "rate": 7.03077433,
+        "minerFee": 0.02,
+        "limit": 8960.81908931,
+        "minimum": 0.00479481,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "BNT",
+      "market_info": {
+        "pair": "BLK_BNT",
+        "rate": 0.10539711,
+        "minerFee": 1,
+        "limit": 40131.27528357,
+        "minimum": 17.56040217,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "CVC",
+      "market_info": {
+        "pair": "BNT_CVC",
+        "rate": 8.88325301,
+        "minerFee": 7.4577,
+        "limit": 8960.81908931,
+        "minimum": 1.66027096,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "BNT",
+      "market_info": {
+        "pair": "CVC_BNT",
+        "rate": 0.10847128,
+        "minerFee": 1,
+        "limit": 74278.85422621,
+        "minimum": 18.18119088,
+        "maxLimit": 74278.85422621
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "DASH",
+      "market_info": {
+        "pair": "BNT_DASH",
+        "rate": 0.00266195,
+        "minerFee": 0.002,
+        "limit": 8960.81908931,
+        "minimum": 1.49183126,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "BNT",
+      "market_info": {
+        "pair": "DASH_BNT",
+        "rate": 365.0821062,
+        "minerFee": 1,
+        "limit": 22.06602705,
+        "minimum": 0.00540109,
+        "maxLimit": 22.06602705
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "DGB",
+      "market_info": {
+        "pair": "BNT_DGB",
+        "rate": 39.45869845,
+        "minerFee": 0.01,
+        "limit": 8960.81908931,
+        "minimum": 0.00049895,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "BNT",
+      "market_info": {
+        "pair": "DGB_BNT",
+        "rate": 0.02413059,
+        "minerFee": 1,
+        "limit": 333913.25482632,
+        "minimum": 81.73174836,
+        "maxLimit": 333913.25482632
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "DNT",
+      "market_info": {
+        "pair": "BNT_DNT",
+        "rate": 36.69151822,
+        "minerFee": 189,
+        "limit": 8960.81908931,
+        "minimum": 10.23162912,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "BNT",
+      "market_info": {
+        "pair": "DNT_BNT",
+        "rate": 0.02622513,
+        "minerFee": 1,
+        "limit": 307244.35157206,
+        "minimum": 75.20401681,
+        "maxLimit": 307244.35157206
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "BNT_DOGE",
+        "rate": 108.85150404,
+        "minerFee": 2,
+        "limit": 8960.81908931,
+        "minimum": 0.03649591,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "BNT",
+      "market_info": {
+        "pair": "DOGE_BNT",
+        "rate": 0.00864262,
+        "minerFee": 1,
+        "limit": 932327.68752902,
+        "minimum": 228.20529238,
+        "maxLimit": 932327.68752902
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "ETH",
+      "market_info": {
+        "pair": "BNT_ETH",
+        "rate": 0.00120212,
+        "minerFee": 0.0013,
+        "limit": 8960.81908931,
+        "minimum": 2.14805231,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "BNT",
+      "market_info": {
+        "pair": "ETH_BNT",
+        "rate": 809.49039757,
+        "minerFee": 1,
+        "limit": 9.95123406,
+        "minimum": 0.00243576,
+        "maxLimit": 9.95123406
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "ETC",
+      "market_info": {
+        "pair": "BNT_ETC",
+        "rate": 0.03083758,
+        "minerFee": 0.001,
+        "limit": 8960.81908931,
+        "minimum": 0.06438984,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "BNT",
+      "market_info": {
+        "pair": "ETC_BNT",
+        "rate": 31.51553665,
+        "minerFee": 1,
+        "limit": 255.60127565,
+        "minimum": 0.06256337,
+        "maxLimit": 255.60127565
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "GNT",
+      "market_info": {
+        "pair": "BNT_GNT",
+        "rate": 4.1899009,
+        "minerFee": 6,
+        "limit": 8960.81908931,
+        "minimum": 2.83938201,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "BNT",
+      "market_info": {
+        "pair": "GNT_BNT",
+        "rate": 0.22985007,
+        "minerFee": 1,
+        "limit": 34854.34747543,
+        "minimum": 8.53127786,
+        "maxLimit": 34854.34747543
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "LTC",
+      "market_info": {
+        "pair": "BNT_LTC",
+        "rate": 0.00408226,
+        "minerFee": 0.004,
+        "limit": 8960.81908931,
+        "minimum": 1.94581466,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "BNT",
+      "market_info": {
+        "pair": "LTC_BNT",
+        "rate": 238.91391324,
+        "minerFee": 1,
+        "limit": 33.72100641,
+        "minimum": 0.00825387,
+        "maxLimit": 33.72100641
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "MANA",
+      "market_info": {
+        "pair": "BNT_MANA",
+        "rate": 5.52258693,
+        "minerFee": 10,
+        "limit": 8960.81908931,
+        "minimum": 3.58268209,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "BNT",
+      "market_info": {
+        "pair": "MANA_BNT",
+        "rate": 0.17494237,
+        "minerFee": 1,
+        "limit": 45998.25449138,
+        "minimum": 11.25896534,
+        "maxLimit": 45998.25449138
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "MKR",
+      "market_info": {
+        "pair": "BNT_MKR",
+        "rate": 0.00052759,
+        "minerFee": 0.0007,
+        "limit": 8960.81908931,
+        "minimum": 2.63543207,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "BNT",
+      "market_info": {
+        "pair": "MKR_BNT",
+        "rate": 1786.3122932,
+        "minerFee": 1,
+        "limit": 4.47217966,
+        "minimum": 0.00109465,
+        "maxLimit": 4.47217966
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "REP",
+      "market_info": {
+        "pair": "BNT_REP",
+        "rate": 0.02191753,
+        "minerFee": 0.04,
+        "limit": 8960.81908931,
+        "minimum": 3.62453312,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "REP",
+      "to": "BNT",
+      "market_info": {
+        "pair": "REP_BNT",
+        "rate": 44.33914734,
+        "minerFee": 1,
+        "limit": 181.58161812,
+        "minimum": 0.04444562,
+        "maxLimit": 181.58161812
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "RDD",
+      "market_info": {
+        "pair": "BNT_RDD",
+        "rate": 296.76391764,
+        "minerFee": 0.1,
+        "limit": 8960.81908931,
+        "minimum": 0.00066933,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "BNT",
+      "market_info": {
+        "pair": "RDD_BNT",
+        "rate": 0.00297909,
+        "minerFee": 1,
+        "limit": 2704697.36409322,
+        "minimum": 662.02716173,
+        "maxLimit": 2704697.36409322
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "RCN",
+      "market_info": {
+        "pair": "BNT_RCN",
+        "rate": 4.7770214,
+        "minerFee": 25.4089,
+        "limit": 8960.81908931,
+        "minimum": 10.44781655,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "BNT",
+      "market_info": {
+        "pair": "RCN_BNT",
+        "rate": 0.20034852,
+        "minerFee": 1,
+        "limit": 40055.55990865,
+        "minimum": 9.80437552,
+        "maxLimit": 40055.55990865
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "RLC",
+      "market_info": {
+        "pair": "BNT_RLC",
+        "rate": 0.47517063,
+        "minerFee": 1,
+        "limit": 8960.81908931,
+        "minimum": 4.1806068,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "BNT",
+      "market_info": {
+        "pair": "RLC_BNT",
+        "rate": 2.04585829,
+        "minerFee": 1,
+        "limit": 3938.45636392,
+        "minimum": 0.96401362,
+        "maxLimit": 3938.45636392
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "SC",
+      "market_info": {
+        "pair": "BNT_SC",
+        "rate": 109.99428297,
+        "minerFee": 5.588,
+        "limit": 8960.81908931,
+        "minimum": 0.1002912,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "SC",
+      "to": "BNT",
+      "market_info": {
+        "pair": "SC_BNT",
+        "rate": 0.00864283,
+        "minerFee": 1,
+        "limit": 932198.08581909,
+        "minimum": 228.17356985,
+        "maxLimit": 932198.08581909
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "SNT",
+      "market_info": {
+        "pair": "BNT_SNT",
+        "rate": 14.52470071,
+        "minerFee": 45,
+        "limit": 8960.81908931,
+        "minimum": 6.13131333,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "BNT",
+      "market_info": {
+        "pair": "SNT_BNT",
+        "rate": 0.06611992,
+        "minerFee": 1,
+        "limit": 121790.55377631,
+        "minimum": 29.81060126,
+        "maxLimit": 121790.55377631
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "BNT_TUSD",
+        "rate": 0.3246613,
+        "minerFee": 0.35,
+        "limit": 8960.81908931,
+        "minimum": 2.13158973,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "BNT",
+      "market_info": {
+        "pair": "TUSD_BNT",
+        "rate": 2.97738133,
+        "minerFee": 1,
+        "limit": 2703.07551878,
+        "minimum": 0.66163018,
+        "maxLimit": 2703.07551878
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "XMR",
+      "market_info": {
+        "pair": "BNT_XMR",
+        "rate": 0.00356227,
+        "minerFee": 0.001,
+        "limit": 8960.81908931,
+        "minimum": 0.55765755,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "BNT",
+      "market_info": {
+        "pair": "XMR_BNT",
+        "rate": 272.92598067,
+        "minerFee": 1,
+        "limit": 29.50404074,
+        "minimum": 0.00722169,
+        "maxLimit": 29.50404074
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "XRP",
+      "market_info": {
+        "pair": "BNT_XRP",
+        "rate": 1.03133091,
+        "minerFee": 0.15,
+        "limit": 8960.81908931,
+        "minimum": 0.28886515,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "BNT",
+      "market_info": {
+        "pair": "XRP_BNT",
+        "rate": 0.95060818,
+        "minerFee": 1,
+        "limit": 8453.87139077,
+        "minimum": 2.06924906,
+        "maxLimit": 8453.87139077
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "BNT_ZEC",
+        "rate": 0.00493468,
+        "minerFee": 0.0005,
+        "limit": 8960.81908931,
+        "minimum": 0.20124455,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "BNT",
+      "market_info": {
+        "pair": "ZEC_BNT",
+        "rate": 196.93285937,
+        "minerFee": 1,
+        "limit": 40.89156524,
+        "minimum": 0.010009,
+        "maxLimit": 40.89156524
+      }
+    },
+    {
+      "from": "BNT",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "BNT_ZRX",
+        "rate": 1.00696031,
+        "minerFee": 2,
+        "limit": 8960.81908931,
+        "minimum": 3.94520816,
+        "maxLimit": 8960.81908931
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "BNT",
+      "market_info": {
+        "pair": "ZRX_BNT",
+        "rate": 0.96159861,
+        "minerFee": 1,
+        "limit": 8349.50260817,
+        "minimum": 2.04370278,
+        "maxLimit": 8349.50260817
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "CVC",
+      "market_info": {
+        "pair": "BLK_CVC",
+        "rate": 0.93743315,
+        "minerFee": 7.4577,
+        "limit": 40131.27528357,
+        "minimum": 14.34610409,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "BLK",
+      "market_info": {
+        "pair": "CVC_BLK",
+        "rate": 0.77840526,
+        "minerFee": 0.02,
+        "limit": 82908.30628933,
+        "minimum": 0.04323208,
+        "maxLimit": 82908.30628933
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "DASH",
+      "market_info": {
+        "pair": "BLK_DASH",
+        "rate": 0.0002811,
+        "minerFee": 0.002,
+        "limit": 40131.27528357,
+        "minimum": 12.87354293,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "BLK",
+      "market_info": {
+        "pair": "DASH_BLK",
+        "rate": 2612.12738042,
+        "minerFee": 0.02,
+        "limit": 24.71539676,
+        "minimum": 1.289e-05,
+        "maxLimit": 24.71539676
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "DGB",
+      "market_info": {
+        "pair": "BLK_DGB",
+        "rate": 4.17246672,
+        "minerFee": 0.01,
+        "limit": 40131.27528357,
+        "minimum": 0.00431135,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "BLK",
+      "market_info": {
+        "pair": "DGB_BLK",
+        "rate": 0.17296658,
+        "minerFee": 0.02,
+        "limit": 373730.02236722,
+        "minimum": 0.19487946,
+        "maxLimit": 373730.02236722
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "DNT",
+      "market_info": {
+        "pair": "BLK_DNT",
+        "rate": 3.86807283,
+        "minerFee": 189,
+        "limit": 40131.27528357,
+        "minimum": 88.40967498,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "BLK",
+      "market_info": {
+        "pair": "DNT_BLK",
+        "rate": 0.18798013,
+        "minerFee": 0.02,
+        "limit": 343881.04313186,
+        "minimum": 0.17931487,
+        "maxLimit": 343881.04313186
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "BLK_DOGE",
+        "rate": 11.47528273,
+        "minerFee": 2,
+        "limit": 40131.27528357,
+        "minimum": 0.31535465,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "BLK",
+      "market_info": {
+        "pair": "DOGE_BLK",
+        "rate": 0.061948,
+        "minerFee": 0.02,
+        "limit": 1043501.09640013,
+        "minimum": 0.54412789,
+        "maxLimit": 1043501.09640013
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "ETH",
+      "market_info": {
+        "pair": "BLK_ETH",
+        "rate": 0.0001268,
+        "minerFee": 0.0013,
+        "limit": 40131.27528357,
+        "minimum": 18.49672307,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "BLK",
+      "market_info": {
+        "pair": "ETH_BLK",
+        "rate": 5794.43887179,
+        "minerFee": 0.02,
+        "limit": 11.15139175,
+        "minimum": 5.81e-06,
+        "maxLimit": 11.15139175
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "ETC",
+      "market_info": {
+        "pair": "BLK_ETC",
+        "rate": 0.00325531,
+        "minerFee": 0.001,
+        "limit": 40131.27528357,
+        "minimum": 0.55420029,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "BLK",
+      "market_info": {
+        "pair": "ETC_BLK",
+        "rate": 225.56974129,
+        "minerFee": 0.02,
+        "limit": 286.34769553,
+        "minimum": 0.00014931,
+        "maxLimit": 286.34769553
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "GNT",
+      "market_info": {
+        "pair": "BLK_GNT",
+        "rate": 0.44240754,
+        "minerFee": 6,
+        "limit": 40131.27528357,
+        "minimum": 24.47036477,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "BLK",
+      "market_info": {
+        "pair": "GNT_BLK",
+        "rate": 1.64781457,
+        "minerFee": 0.02,
+        "limit": 38910.19513078,
+        "minimum": 0.02028951,
+        "maxLimit": 38910.19513078
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "LTC",
+      "market_info": {
+        "pair": "BLK_LTC",
+        "rate": 0.00042955,
+        "minerFee": 0.004,
+        "limit": 40131.27528357,
+        "minimum": 16.80508805,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "BLK",
+      "market_info": {
+        "pair": "LTC_BLK",
+        "rate": 1713.56040797,
+        "minerFee": 0.02,
+        "limit": 37.72317601,
+        "minimum": 1.967e-05,
+        "maxLimit": 37.72317601
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "MANA",
+      "market_info": {
+        "pair": "BLK_MANA",
+        "rate": 0.58282599,
+        "minerFee": 10,
+        "limit": 40131.27528357,
+        "minimum": 30.87627432,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "BLK",
+      "market_info": {
+        "pair": "MANA_BLK",
+        "rate": 1.25406101,
+        "minerFee": 0.02,
+        "limit": 51483.21736691,
+        "minimum": 0.02684564,
+        "maxLimit": 51483.21736691
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "MKR",
+      "market_info": {
+        "pair": "BLK_MKR",
+        "rate": 5.584e-05,
+        "minerFee": 0.0007,
+        "limit": 40131.27528357,
+        "minimum": 22.71231572,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "BLK",
+      "market_info": {
+        "pair": "MKR_BLK",
+        "rate": 12824.6555387,
+        "minerFee": 0.02,
+        "limit": 5.0054551,
+        "minimum": 2.61e-06,
+        "maxLimit": 5.0054551
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "REP",
+      "market_info": {
+        "pair": "BLK_REP",
+        "rate": 0.00234445,
+        "minerFee": 0.04,
+        "limit": 40131.27528357,
+        "minimum": 31.23695488,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "REP",
+      "to": "BLK",
+      "market_info": {
+        "pair": "REP_BLK",
+        "rate": 317.78270549,
+        "minerFee": 0.02,
+        "limit": 203.23392744,
+        "minimum": 0.00010598,
+        "maxLimit": 203.23392744
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "RDD",
+      "market_info": {
+        "pair": "BLK_RDD",
+        "rate": 31.89355316,
+        "minerFee": 0.1,
+        "limit": 40131.27528357,
+        "minimum": 0.00576838,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "BLK",
+      "market_info": {
+        "pair": "RDD_BLK",
+        "rate": 0.0213539,
+        "minerFee": 0.02,
+        "limit": 3027213.18117451,
+        "minimum": 1.57852362,
+        "maxLimit": 3027213.18117451
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "RCN",
+      "market_info": {
+        "pair": "BLK_RCN",
+        "rate": 0.51654224,
+        "minerFee": 25.4089,
+        "limit": 40131.27528357,
+        "minimum": 90.04138278,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "BLK",
+      "market_info": {
+        "pair": "RCN_BLK",
+        "rate": 1.43799309,
+        "minerFee": 0.02,
+        "limit": 44831.89895645,
+        "minimum": 0.02337735,
+        "maxLimit": 44831.89895645
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "RLC",
+      "market_info": {
+        "pair": "BLK_RLC",
+        "rate": 0.05106239,
+        "minerFee": 1,
+        "limit": 40131.27528357,
+        "minimum": 36.02930957,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "BLK",
+      "market_info": {
+        "pair": "RLC_BLK",
+        "rate": 14.66295957,
+        "minerFee": 0.02,
+        "limit": 4408.08911808,
+        "minimum": 0.00229857,
+        "maxLimit": 4408.08911808
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "SC",
+      "market_info": {
+        "pair": "BLK_SC",
+        "rate": 11.87181809,
+        "minerFee": 5.588,
+        "limit": 40131.27528357,
+        "minimum": 0.86432974,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "SC",
+      "to": "BLK",
+      "market_info": {
+        "pair": "SC_BLK",
+        "rate": 0.06194933,
+        "minerFee": 0.02,
+        "limit": 1043356.04061317,
+        "minimum": 0.54405225,
+        "maxLimit": 1043356.04061317
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "SNT",
+      "market_info": {
+        "pair": "BLK_SNT",
+        "rate": 1.5696541,
+        "minerFee": 45,
+        "limit": 40131.27528357,
+        "minimum": 52.84089051,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "BLK",
+      "market_info": {
+        "pair": "SNT_BLK",
+        "rate": 0.47388562,
+        "minerFee": 0.02,
+        "limit": 136313.2062865,
+        "minimum": 0.07107977,
+        "maxLimit": 136313.2062865
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "BLK_TUSD",
+        "rate": 0.03558504,
+        "minerFee": 0.35,
+        "limit": 40131.27528357,
+        "minimum": 18.37046873,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "BLK",
+      "market_info": {
+        "pair": "TUSD_BLK",
+        "rate": 21.33924902,
+        "minerFee": 0.02,
+        "limit": 3025.39794241,
+        "minimum": 0.00157758,
+        "maxLimit": 3025.39794241
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "XMR",
+      "market_info": {
+        "pair": "BLK_XMR",
+        "rate": 0.00038473,
+        "minerFee": 0.001,
+        "limit": 40131.27528357,
+        "minimum": 4.80548059,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "BLK",
+      "market_info": {
+        "pair": "XMR_BLK",
+        "rate": 1956.51835193,
+        "minerFee": 0.02,
+        "limit": 33.02579046,
+        "minimum": 1.722e-05,
+        "maxLimit": 33.02579046
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "XRP",
+      "market_info": {
+        "pair": "BLK_XRP",
+        "rate": 0.11057883,
+        "minerFee": 0.15,
+        "limit": 40131.27528357,
+        "minimum": 2.48792526,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "BLK",
+      "market_info": {
+        "pair": "XRP_BLK",
+        "rate": 6.75474519,
+        "minerFee": 0.02,
+        "limit": 9567.35118419,
+        "minimum": 0.00498884,
+        "maxLimit": 9461.93509331
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "BLK_ZEC",
+        "rate": 0.00052849,
+        "minerFee": 0.0005,
+        "limit": 40131.27528357,
+        "minimum": 1.73541437,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "BLK",
+      "market_info": {
+        "pair": "ZEC_BLK",
+        "rate": 1412.18264604,
+        "minerFee": 0.02,
+        "limit": 45.74683567,
+        "minimum": 2.385e-05,
+        "maxLimit": 45.74683567
+      }
+    },
+    {
+      "from": "BLK",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "BLK_ZRX",
+        "rate": 0.10789089,
+        "minerFee": 2,
+        "limit": 40131.27528357,
+        "minimum": 34.00059681,
+        "maxLimit": 40131.27528357
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "BLK",
+      "market_info": {
+        "pair": "ZRX_BLK",
+        "rate": 6.89181071,
+        "minerFee": 0.02,
+        "limit": 9345.12107981,
+        "minimum": 0.00487296,
+        "maxLimit": 9345.12107981
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "DASH",
+      "market_info": {
+        "pair": "CVC_DASH",
+        "rate": 0.00029557,
+        "minerFee": 0.002,
+        "limit": 120522.7035613,
+        "minimum": 13.43315725,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "CVC",
+      "market_info": {
+        "pair": "DASH_CVC",
+        "rate": 3301.04091734,
+        "minerFee": 7.4577,
+        "limit": 35.99475492,
+        "minimum": 0.00447131,
+        "maxLimit": 35.99475492
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "DGB",
+      "market_info": {
+        "pair": "CVC_DGB",
+        "rate": 4.37064704,
+        "minerFee": 0.01,
+        "limit": 120522.7035613,
+        "minimum": 0.00449877,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "CVC",
+      "market_info": {
+        "pair": "DGB_CVC",
+        "rate": 0.21878218,
+        "minerFee": 7.4577,
+        "limit": 543223.12889137,
+        "minimum": 67.47982295,
+        "maxLimit": 543223.12889137
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "DNT",
+      "market_info": {
+        "pair": "CVC_DNT",
+        "rate": 4.06851838,
+        "minerFee": 189,
+        "limit": 120522.7035613,
+        "minimum": 92.25285324,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "CVC",
+      "market_info": {
+        "pair": "DNT_CVC",
+        "rate": 0.23777254,
+        "minerFee": 7.4577,
+        "limit": 499837.11512736,
+        "minimum": 62.09036073,
+        "maxLimit": 499837.11512736
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "CVC_DOGE",
+        "rate": 12.06993787,
+        "minerFee": 2,
+        "limit": 120522.7035613,
+        "minimum": 0.32906315,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "CVC",
+      "market_info": {
+        "pair": "DOGE_CVC",
+        "rate": 0.07835686,
+        "minerFee": 7.4577,
+        "limit": 1516747.10797268,
+        "minimum": 188.41212913,
+        "maxLimit": 1516747.10797268
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "ETH",
+      "market_info": {
+        "pair": "CVC_ETH",
+        "rate": 0.00013341,
+        "minerFee": 0.0013,
+        "limit": 120522.7035613,
+        "minimum": 19.347871,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "CVC",
+      "market_info": {
+        "pair": "ETH_CVC",
+        "rate": 7330.95967844,
+        "minerFee": 7.4577,
+        "limit": 16.21173011,
+        "minimum": 0.00201384,
+        "maxLimit": 16.21173011
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "ETC",
+      "market_info": {
+        "pair": "CVC_ETC",
+        "rate": 0.00342504,
+        "minerFee": 0.001,
+        "limit": 120522.7035613,
+        "minimum": 0.57975442,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "CVC",
+      "market_info": {
+        "pair": "ETC_CVC",
+        "rate": 285.49011555,
+        "minerFee": 7.4577,
+        "limit": 416.25500266,
+        "minimum": 0.05170769,
+        "maxLimit": 416.25500266
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "GNT",
+      "market_info": {
+        "pair": "CVC_GNT",
+        "rate": 0.46405187,
+        "minerFee": 6,
+        "limit": 120522.7035613,
+        "minimum": 25.60111283,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "CVC",
+      "market_info": {
+        "pair": "GNT_CVC",
+        "rate": 2.08171701,
+        "minerFee": 7.4577,
+        "limit": 56556.64966607,
+        "minimum": 7.02553427,
+        "maxLimit": 56556.64966607
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "LTC",
+      "market_info": {
+        "pair": "CVC_LTC",
+        "rate": 0.00045179,
+        "minerFee": 0.004,
+        "limit": 120522.7035613,
+        "minimum": 17.58163228,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "CVC",
+      "market_info": {
+        "pair": "LTC_CVC",
+        "rate": 2168.05323823,
+        "minerFee": 7.4577,
+        "limit": 54.81762977,
+        "minimum": 0.00680951,
+        "maxLimit": 54.81762977
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "MANA",
+      "market_info": {
+        "pair": "CVC_MANA",
+        "rate": 0.61213252,
+        "minerFee": 10,
+        "limit": 120522.7035613,
+        "minimum": 32.30303225,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "CVC",
+      "market_info": {
+        "pair": "MANA_CVC",
+        "rate": 1.5858497,
+        "minerFee": 7.4577,
+        "limit": 74831.75755136,
+        "minimum": 9.2956899,
+        "maxLimit": 74831.75755136
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "MKR",
+      "market_info": {
+        "pair": "CVC_MKR",
+        "rate": 5.85e-05,
+        "minerFee": 0.0007,
+        "limit": 120522.7035613,
+        "minimum": 23.7618263,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "CVC",
+      "market_info": {
+        "pair": "MKR_CVC",
+        "rate": 16195.72406011,
+        "minerFee": 7.4577,
+        "limit": 7.2755166,
+        "minimum": 0.00090377,
+        "maxLimit": 7.2755166
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "REP",
+      "market_info": {
+        "pair": "CVC_REP",
+        "rate": 0.00242962,
+        "minerFee": 0.04,
+        "limit": 120522.7035613,
+        "minimum": 32.68037946,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "REP",
+      "to": "CVC",
+      "market_info": {
+        "pair": "REP_CVC",
+        "rate": 401.68847178,
+        "minerFee": 7.4577,
+        "limit": 295.40407073,
+        "minimum": 0.03669544,
+        "maxLimit": 295.40407073
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "RDD",
+      "market_info": {
+        "pair": "CVC_RDD",
+        "rate": 32.90650027,
+        "minerFee": 0.1,
+        "limit": 120522.7035613,
+        "minimum": 0.00603493,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "CVC",
+      "market_info": {
+        "pair": "RDD_CVC",
+        "rate": 0.02702387,
+        "minerFee": 7.4577,
+        "limit": 3751201.13297663,
+        "minimum": 546.58656589,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "RCN",
+      "market_info": {
+        "pair": "CVC_RCN",
+        "rate": 0.52812085,
+        "minerFee": 25.4089,
+        "limit": 120522.7035613,
+        "minimum": 94.20209389,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "CVC",
+      "market_info": {
+        "pair": "RCN_CVC",
+        "rate": 1.81580153,
+        "minerFee": 7.4577,
+        "limit": 65163.94982401,
+        "minimum": 8.09474333,
+        "maxLimit": 65163.94982401
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "RLC",
+      "market_info": {
+        "pair": "CVC_RLC",
+        "rate": 0.05271527,
+        "minerFee": 1,
+        "limit": 120522.7035613,
+        "minimum": 37.69418348,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "CVC",
+      "market_info": {
+        "pair": "RLC_CVC",
+        "rate": 18.53054601,
+        "minerFee": 7.4577,
+        "limit": 6407.23468772,
+        "minimum": 0.79591431,
+        "maxLimit": 6407.23468772
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "SC",
+      "market_info": {
+        "pair": "CVC_SC",
+        "rate": 12.16150324,
+        "minerFee": 5.588,
+        "limit": 120522.7035613,
+        "minimum": 0.90334953,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "SC",
+      "to": "CVC",
+      "market_info": {
+        "pair": "SC_CVC",
+        "rate": 0.07835802,
+        "minerFee": 7.4577,
+        "limit": 1516536.26684744,
+        "minimum": 188.38593819,
+        "maxLimit": 1516536.26684744
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "SNT",
+      "market_info": {
+        "pair": "CVC_SNT",
+        "rate": 1.60863665,
+        "minerFee": 45,
+        "limit": 120522.7035613,
+        "minimum": 55.28260868,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "CVC",
+      "market_info": {
+        "pair": "SNT_CVC",
+        "rate": 0.59896651,
+        "minerFee": 7.4577,
+        "limit": 198133.63122166,
+        "minimum": 24.61239525,
+        "maxLimit": 198133.63122166
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "CVC_TUSD",
+        "rate": 0.03603072,
+        "minerFee": 0.35,
+        "limit": 120522.7035613,
+        "minimum": 19.21742724,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "CVC",
+      "market_info": {
+        "pair": "TUSD_CVC",
+        "rate": 26.98559895,
+        "minerFee": 7.4577,
+        "limit": 4397.4688627,
+        "minimum": 0.54625881,
+        "maxLimit": 4397.4688627
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "XMR",
+      "market_info": {
+        "pair": "CVC_XMR",
+        "rate": 0.00039497,
+        "minerFee": 0.001,
+        "limit": 120522.7035613,
+        "minimum": 5.02808488,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "CVC",
+      "market_info": {
+        "pair": "XMR_CVC",
+        "rate": 2474.69881793,
+        "minerFee": 7.4577,
+        "limit": 48.00356448,
+        "minimum": 0.00596306,
+        "maxLimit": 48.00356448
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "XRP",
+      "market_info": {
+        "pair": "CVC_XRP",
+        "rate": 0.11444388,
+        "minerFee": 0.15,
+        "limit": 120522.7035613,
+        "minimum": 2.60288949,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "CVC",
+      "market_info": {
+        "pair": "XRP_CVC",
+        "rate": 8.60252839,
+        "minerFee": 7.4577,
+        "limit": 13753.08826997,
+        "minimum": 1.70842498,
+        "maxLimit": 13753.08826997
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "CVC_ZEC",
+        "rate": 0.00054723,
+        "minerFee": 0.0005,
+        "limit": 120522.7035613,
+        "minimum": 1.81505747,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "CVC",
+      "market_info": {
+        "pair": "ZEC_CVC",
+        "rate": 1785.1213305,
+        "minerFee": 7.4577,
+        "limit": 66.52399596,
+        "minimum": 0.00826369,
+        "maxLimit": 66.52399596
+      }
+    },
+    {
+      "from": "CVC",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "CVC_ZRX",
+        "rate": 0.11169485,
+        "minerFee": 2,
+        "limit": 120522.7035613,
+        "minimum": 35.57172618,
+        "maxLimit": 120522.7035613
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "CVC",
+      "market_info": {
+        "pair": "ZRX_CVC",
+        "rate": 8.70897549,
+        "minerFee": 7.4577,
+        "limit": 13583.29705676,
+        "minimum": 1.68733331,
+        "maxLimit": 13583.29705676
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "DGB",
+      "market_info": {
+        "pair": "DASH_DGB",
+        "rate": 14652.2277008,
+        "minerFee": 0.01,
+        "limit": 41.0249894,
+        "minimum": 1.34e-06,
+        "maxLimit": 41.0249894
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "DASH",
+      "market_info": {
+        "pair": "DGB_DASH",
+        "rate": 6.574e-05,
+        "minerFee": 0.002,
+        "limit": 618934.34250761,
+        "minimum": 60.51017159,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "DNT",
+      "market_info": {
+        "pair": "DASH_DNT",
+        "rate": 13643.01515812,
+        "minerFee": 189,
+        "limit": 41.0249894,
+        "minimum": 0.02756409,
+        "maxLimit": 41.0249894
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "DASH",
+      "market_info": {
+        "pair": "DNT_DASH",
+        "rate": 7.135e-05,
+        "minerFee": 0.002,
+        "limit": 569501.44380565,
+        "minimum": 55.67735981,
+        "maxLimit": 569501.44380565
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "DASH_DOGE",
+        "rate": 40453.00833788,
+        "minerFee": 2,
+        "limit": 86.15247775,
+        "minimum": 9.832e-05,
+        "maxLimit": 86.15247775
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "DASH",
+      "market_info": {
+        "pair": "DOGE_DASH",
+        "rate": 2.354e-05,
+        "minerFee": 0.002,
+        "limit": 3629098.85569943,
+        "minimum": 168.95198839,
+        "maxLimit": 3629098.85569943
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "ETH",
+      "market_info": {
+        "pair": "DASH_ETH",
+        "rate": 0.44708788,
+        "minerFee": 0.0013,
+        "limit": 86.1383752,
+        "minimum": 0.00577891,
+        "maxLimit": 86.1383752
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "DASH",
+      "market_info": {
+        "pair": "ETH_DASH",
+        "rate": 2.20121371,
+        "minerFee": 0.002,
+        "limit": 38.79386148,
+        "minimum": 0.00180604,
+        "maxLimit": 38.79386148
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "ETC",
+      "market_info": {
+        "pair": "DASH_ETC",
+        "rate": 11.46898031,
+        "minerFee": 0.001,
+        "limit": 86.1383752,
+        "minimum": 0.00017333,
+        "maxLimit": 86.1383752
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "DASH",
+      "market_info": {
+        "pair": "ETC_DASH",
+        "rate": 0.08566967,
+        "minerFee": 0.002,
+        "limit": 995.68464347,
+        "minimum": 0.0463539,
+        "maxLimit": 995.68464347
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "GNT",
+      "market_info": {
+        "pair": "DASH_GNT",
+        "rate": 1555.78185241,
+        "minerFee": 6,
+        "limit": 41.0182739,
+        "minimum": 0.00764807,
+        "maxLimit": 41.0182739
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "DASH",
+      "market_info": {
+        "pair": "GNT_DASH",
+        "rate": 0.00062546,
+        "minerFee": 0.002,
+        "limit": 64439.1796184,
+        "minimum": 6.29887262,
+        "maxLimit": 64439.1796184
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "LTC",
+      "market_info": {
+        "pair": "DASH_LTC",
+        "rate": 1.51623763,
+        "minerFee": 0.004,
+        "limit": 86.1383752,
+        "minimum": 0.00524572,
+        "maxLimit": 86.1383752
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "DASH",
+      "market_info": {
+        "pair": "LTC_DASH",
+        "rate": 0.65091813,
+        "minerFee": 0.002,
+        "limit": 131.19404988,
+        "minimum": 0.00610672,
+        "maxLimit": 131.19404988
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "MANA",
+      "market_info": {
+        "pair": "DASH_MANA",
+        "rate": 2052.65432154,
+        "minerFee": 10,
+        "limit": 41.0182739,
+        "minimum": 0.00965019,
+        "maxLimit": 41.0182739
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "DASH",
+      "market_info": {
+        "pair": "MANA_DASH",
+        "rate": 0.00047636,
+        "minerFee": 0.002,
+        "limit": 85261.3635087,
+        "minimum": 8.33422262,
+        "maxLimit": 85261.3635087
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "MKR",
+      "market_info": {
+        "pair": "DASH_MKR",
+        "rate": 0.19613922,
+        "minerFee": 0.0007,
+        "limit": 41.0182739,
+        "minimum": 0.0070986,
+        "maxLimit": 41.0182739
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "DASH",
+      "market_info": {
+        "pair": "MKR_DASH",
+        "rate": 4.86562235,
+        "minerFee": 0.002,
+        "limit": 8.28953489,
+        "minimum": 0.00081102,
+        "maxLimit": 8.28953489
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "REP",
+      "market_info": {
+        "pair": "DASH_REP",
+        "rate": 8.14882035,
+        "minerFee": 0.04,
+        "limit": 40.95793319,
+        "minimum": 0.00974856,
+        "maxLimit": 40.95793319
+      }
+    },
+    {
+      "from": "REP",
+      "to": "DASH",
+      "market_info": {
+        "pair": "REP_DASH",
+        "rate": 0.12069448,
+        "minerFee": 0.002,
+        "limit": 336.57573576,
+        "minimum": 0.03292956,
+        "maxLimit": 336.57573576
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "RDD",
+      "market_info": {
+        "pair": "DASH_RDD",
+        "rate": 110393.59955378,
+        "minerFee": 0.1,
+        "limit": 40.95793319,
+        "minimum": 1.8e-06,
+        "maxLimit": 40.95793319
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "DASH",
+      "market_info": {
+        "pair": "RDD_DASH",
+        "rate": 8.11e-06,
+        "minerFee": 0.002,
+        "limit": 3751201.13297663,
+        "minimum": 490.49284027,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "RCN",
+      "market_info": {
+        "pair": "DASH_RCN",
+        "rate": 1771.56754246,
+        "minerFee": 25.4089,
+        "limit": 38.7598625,
+        "minimum": 0.02810049,
+        "maxLimit": 38.7598625
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "DASH",
+      "market_info": {
+        "pair": "RCN_DASH",
+        "rate": 0.00054495,
+        "minerFee": 0.002,
+        "limit": 66252.64368584,
+        "minimum": 7.26342303,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "RLC",
+      "market_info": {
+        "pair": "DASH_RLC",
+        "rate": 176.7507449,
+        "minerFee": 1,
+        "limit": 40.95793319,
+        "minimum": 0.01124418,
+        "maxLimit": 40.95793319
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "DASH",
+      "market_info": {
+        "pair": "RLC_DASH",
+        "rate": 0.00555975,
+        "minerFee": 0.002,
+        "limit": 7300.23700727,
+        "minimum": 0.71417488,
+        "maxLimit": 7300.23700727
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "SC",
+      "market_info": {
+        "pair": "DASH_SC",
+        "rate": 40742.53111949,
+        "minerFee": 5.588,
+        "limit": 40.95793319,
+        "minimum": 0.00026938,
+        "maxLimit": 40.95793319
+      }
+    },
+    {
+      "from": "SC",
+      "to": "DASH",
+      "market_info": {
+        "pair": "SC_DASH",
+        "rate": 2.353e-05,
+        "minerFee": 0.002,
+        "limit": 1727902.08532868,
+        "minimum": 169.03893142,
+        "maxLimit": 1727902.08532868
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "SNT",
+      "market_info": {
+        "pair": "DASH_SNT",
+        "rate": 5392.9935869,
+        "minerFee": 45,
+        "limit": 40.95793319,
+        "minimum": 0.01649081,
+        "maxLimit": 40.95793319
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "DASH",
+      "market_info": {
+        "pair": "SNT_DASH",
+        "rate": 0.00017977,
+        "minerFee": 0.002,
+        "limit": 225748.3200671,
+        "minimum": 22.08473218,
+        "maxLimit": 225748.3200671
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "DASH_TUSD",
+        "rate": 120.81656693,
+        "minerFee": 0.35,
+        "limit": 40.95793319,
+        "minimum": 0.00573256,
+        "maxLimit": 40.95793319
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "DASH",
+      "market_info": {
+        "pair": "TUSD_DASH",
+        "rate": 0.00810023,
+        "minerFee": 0.002,
+        "limit": 5010.36195714,
+        "minimum": 0.49019872,
+        "maxLimit": 5010.36195714
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "XMR",
+      "market_info": {
+        "pair": "DASH_XMR",
+        "rate": 1.32350664,
+        "minerFee": 0.001,
+        "limit": 86.03275306,
+        "minimum": 0.00150008,
+        "maxLimit": 86.03275306
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "DASH",
+      "market_info": {
+        "pair": "XMR_DASH",
+        "rate": 0.74247546,
+        "minerFee": 0.002,
+        "limit": 114.86997033,
+        "minimum": 0.00535156,
+        "maxLimit": 114.86997033
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "XRP",
+      "market_info": {
+        "pair": "DASH_XRP",
+        "rate": 383.14598508,
+        "minerFee": 0.15,
+        "limit": 86.11723003,
+        "minimum": 0.00077789,
+        "maxLimit": 86.11723003
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "DASH",
+      "market_info": {
+        "pair": "XRP_DASH",
+        "rate": 0.00257273,
+        "minerFee": 0.002,
+        "limit": 32906.81527628,
+        "minimum": 1.53297181,
+        "maxLimit": 32906.81527628
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "DASH_ZEC",
+        "rate": 1.83148829,
+        "minerFee": 0.0005,
+        "limit": 86.11723003,
+        "minimum": 0.00054234,
+        "maxLimit": 86.11723003
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "DASH",
+      "market_info": {
+        "pair": "ZEC_DASH",
+        "rate": 0.53576591,
+        "minerFee": 0.002,
+        "limit": 159.14693303,
+        "minimum": 0.0074139,
+        "maxLimit": 159.14693303
+      }
+    },
+    {
+      "from": "DASH",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "DASH_ZRX",
+        "rate": 374.03122903,
+        "minerFee": 2,
+        "limit": 41.00820477,
+        "minimum": 0.0106208,
+        "maxLimit": 41.00820477
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "DASH",
+      "market_info": {
+        "pair": "ZRX_DASH",
+        "rate": 0.00261456,
+        "minerFee": 0.002,
+        "limit": 15476.45633217,
+        "minimum": 1.51404623,
+        "maxLimit": 15476.45633217
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "DNT",
+      "market_info": {
+        "pair": "DGB_DNT",
+        "rate": 0.90443035,
+        "minerFee": 189,
+        "limit": 618934.34250761,
+        "minimum": 415.85291567,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "DGB",
+      "market_info": {
+        "pair": "DNT_DGB",
+        "rate": 1.05436799,
+        "minerFee": 0.01,
+        "limit": 569501.44380565,
+        "minimum": 0.01865967,
+        "maxLimit": 569501.44380565
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "DGB_DOGE",
+        "rate": 2.68314339,
+        "minerFee": 2,
+        "limit": 618934.34250761,
+        "minimum": 1.48333482,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "DGB",
+      "market_info": {
+        "pair": "DOGE_DGB",
+        "rate": 0.34789686,
+        "minerFee": 0.01,
+        "limit": 1728142.31223782,
+        "minimum": 0.05662245,
+        "maxLimit": 1728142.31223782
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "ETH",
+      "market_info": {
+        "pair": "DGB_ETH",
+        "rate": 2.967e-05,
+        "minerFee": 0.0013,
+        "limit": 618934.34250761,
+        "minimum": 87.1961066,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "DGB",
+      "market_info": {
+        "pair": "ETH_DGB",
+        "rate": 32537.38880813,
+        "minerFee": 0.01,
+        "limit": 18.47394834,
+        "minimum": 6.1e-07,
+        "maxLimit": 18.47394834
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "ETC",
+      "market_info": {
+        "pair": "DGB_ETC",
+        "rate": 0.00076069,
+        "minerFee": 0.001,
+        "limit": 618934.34250761,
+        "minimum": 2.61462484,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "DGB",
+      "market_info": {
+        "pair": "ETC_DGB",
+        "rate": 1267.74345366,
+        "minerFee": 0.01,
+        "limit": 474.13554451,
+        "minimum": 1.554e-05,
+        "maxLimit": 474.13554451
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "GNT",
+      "market_info": {
+        "pair": "DGB_GNT",
+        "rate": 0.10312658,
+        "minerFee": 6,
+        "limit": 618934.34250761,
+        "minimum": 115.40344868,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "DGB",
+      "market_info": {
+        "pair": "GNT_DGB",
+        "rate": 9.25588795,
+        "minerFee": 0.01,
+        "limit": 64439.1796184,
+        "minimum": 0.00211134,
+        "maxLimit": 64439.1796184
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "LTC",
+      "market_info": {
+        "pair": "DGB_LTC",
+        "rate": 0.00010055,
+        "minerFee": 0.004,
+        "limit": 618934.34250761,
+        "minimum": 79.13213985,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "DGB",
+      "market_info": {
+        "pair": "LTC_DGB",
+        "rate": 9631.8518987,
+        "minerFee": 0.01,
+        "limit": 62.42666549,
+        "minimum": 2.05e-06,
+        "maxLimit": 62.42666549
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "MANA",
+      "market_info": {
+        "pair": "DGB_MANA",
+        "rate": 0.13612135,
+        "minerFee": 10,
+        "limit": 618934.34250761,
+        "minimum": 145.61403444,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "DGB",
+      "market_info": {
+        "pair": "MANA_DGB",
+        "rate": 7.0458088,
+        "minerFee": 0.01,
+        "limit": 85261.3635087,
+        "minimum": 0.00279358,
+        "maxLimit": 85261.3635087
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "MKR",
+      "market_info": {
+        "pair": "DGB_MKR",
+        "rate": 1.3e-05,
+        "minerFee": 0.0007,
+        "limit": 618934.34250761,
+        "minimum": 107.11240251,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "DGB",
+      "market_info": {
+        "pair": "MKR_DGB",
+        "rate": 71978.00748636,
+        "minerFee": 0.01,
+        "limit": 8.28953489,
+        "minimum": 2.7e-07,
+        "maxLimit": 8.28953489
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "REP",
+      "market_info": {
+        "pair": "DGB_REP",
+        "rate": 0.00053959,
+        "minerFee": 0.04,
+        "limit": 618934.34250761,
+        "minimum": 147.4255948,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "REP",
+      "to": "DGB",
+      "market_info": {
+        "pair": "REP_DGB",
+        "rate": 1785.64752126,
+        "minerFee": 0.01,
+        "limit": 336.34984601,
+        "minimum": 1.102e-05,
+        "maxLimit": 336.34984601
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "RDD",
+      "market_info": {
+        "pair": "DGB_RDD",
+        "rate": 7.31510464,
+        "minerFee": 0.1,
+        "limit": 618934.34250761,
+        "minimum": 0.02720399,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "DGB",
+      "market_info": {
+        "pair": "RDD_DGB",
+        "rate": 0.1200611,
+        "minerFee": 0.01,
+        "limit": 3751201.13297663,
+        "minimum": 0.16426261,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "RCN",
+      "market_info": {
+        "pair": "DGB_RCN",
+        "rate": 0.11738021,
+        "minerFee": 25.4089,
+        "limit": 585718.27587323,
+        "minimum": 424.63960767,
+        "maxLimit": 585718.27587323
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "DGB",
+      "market_info": {
+        "pair": "RCN_DGB",
+        "rate": 8.06310133,
+        "minerFee": 0.01,
+        "limit": 66252.64368584,
+        "minimum": 0.00243267,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "RLC",
+      "market_info": {
+        "pair": "DGB_RLC",
+        "rate": 0.01171167,
+        "minerFee": 1,
+        "limit": 618934.34250761,
+        "minimum": 169.91600317,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "DGB",
+      "market_info": {
+        "pair": "RLC_DGB",
+        "rate": 82.24426145,
+        "minerFee": 0.01,
+        "limit": 7300.23700727,
+        "minimum": 0.00023919,
+        "maxLimit": 7300.23700727
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "SC",
+      "market_info": {
+        "pair": "DGB_SC",
+        "rate": 2.69756952,
+        "minerFee": 5.588,
+        "limit": 618934.34250761,
+        "minimum": 4.07207501,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "SC",
+      "to": "DGB",
+      "market_info": {
+        "pair": "SC_DGB",
+        "rate": 0.34803047,
+        "minerFee": 0.01,
+        "limit": 1727902.08532868,
+        "minimum": 0.05661457,
+        "maxLimit": 1727902.08532868
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "SNT",
+      "market_info": {
+        "pair": "DGB_SNT",
+        "rate": 0.3573605,
+        "minerFee": 45,
+        "limit": 618934.34250761,
+        "minimum": 249.20024909,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "DGB",
+      "market_info": {
+        "pair": "SNT_DGB",
+        "rate": 2.65934383,
+        "minerFee": 0.01,
+        "limit": 225748.3200671,
+        "minimum": 0.00739663,
+        "maxLimit": 225748.3200671
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "DGB_TUSD",
+        "rate": 0.00800577,
+        "minerFee": 0.35,
+        "limit": 618934.34250761,
+        "minimum": 86.62738191,
+        "maxLimit": 618934.34250761
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "DGB",
+      "market_info": {
+        "pair": "TUSD_DGB",
+        "rate": 119.81218306,
+        "minerFee": 0.01,
+        "limit": 5010.36195714,
+        "minimum": 0.00016416,
+        "maxLimit": 5010.36195714
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "XMR",
+      "market_info": {
+        "pair": "DGB_XMR",
+        "rate": 8.78e-05,
+        "minerFee": 0.001,
+        "limit": 618551.9816849,
+        "minimum": 22.66288376,
+        "maxLimit": 618551.9816849
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "DGB",
+      "market_info": {
+        "pair": "XMR_DGB",
+        "rate": 10987.39275623,
+        "minerFee": 0.01,
+        "limit": 54.67216098,
+        "minimum": 1.79e-06,
+        "maxLimit": 54.67216098
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "XRP",
+      "market_info": {
+        "pair": "DGB_XRP",
+        "rate": 0.02543507,
+        "minerFee": 0.15,
+        "limit": 618551.9816849,
+        "minimum": 11.73317839,
+        "maxLimit": 618551.9816849
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "DGB",
+      "market_info": {
+        "pair": "XRP_DGB",
+        "rate": 38.18398073,
+        "minerFee": 0.01,
+        "limit": 15660.23159036,
+        "minimum": 0.00051342,
+        "maxLimit": 15660.23159036
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "DGB_ZEC",
+        "rate": 0.0001215,
+        "minerFee": 0.0005,
+        "limit": 618551.9816849,
+        "minimum": 8.18385202,
+        "maxLimit": 618551.9816849
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "DGB",
+      "market_info": {
+        "pair": "ZEC_DGB",
+        "rate": 7939.07767368,
+        "minerFee": 0.01,
+        "limit": 75.68021558,
+        "minimum": 2.48e-06,
+        "maxLimit": 75.68021558
+      }
+    },
+    {
+      "from": "DGB",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "DGB_ZRX",
+        "rate": 0.02480706,
+        "minerFee": 2,
+        "limit": 618551.9816849,
+        "minimum": 160.29904912,
+        "maxLimit": 618551.9816849
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "DGB",
+      "market_info": {
+        "pair": "ZRX_DGB",
+        "rate": 38.67754006,
+        "minerFee": 0.01,
+        "limit": 15466.89539789,
+        "minimum": 0.00050708,
+        "maxLimit": 15466.89539789
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "DNT_DOGE",
+        "rate": 2.91241584,
+        "minerFee": 2,
+        "limit": 569149.62128484,
+        "minimum": 1.36486419,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "DNT",
+      "market_info": {
+        "pair": "DOGE_DNT",
+        "rate": 0.32392182,
+        "minerFee": 189,
+        "limit": 1727074.71286436,
+        "minimum": 1161.11349763,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "ETH",
+      "market_info": {
+        "pair": "DNT_ETH",
+        "rate": 3.221e-05,
+        "minerFee": 0.0013,
+        "limit": 569149.62128484,
+        "minimum": 80.22307738,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "DNT",
+      "market_info": {
+        "pair": "ETH_DNT",
+        "rate": 30297.93413189,
+        "minerFee": 189,
+        "limit": 18.46453246,
+        "minimum": 0.01241372,
+        "maxLimit": 18.46453246
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "ETC",
+      "market_info": {
+        "pair": "DNT_ETC",
+        "rate": 0.00082559,
+        "minerFee": 0.001,
+        "limit": 569149.62128484,
+        "minimum": 2.40739295,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "DNT",
+      "market_info": {
+        "pair": "ETC_DNT",
+        "rate": 1181.09339547,
+        "minerFee": 189,
+        "limit": 473.52904106,
+        "minimum": 0.31835389,
+        "maxLimit": 473.52904106
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "GNT",
+      "market_info": {
+        "pair": "DNT_GNT",
+        "rate": 0.11200182,
+        "minerFee": 6,
+        "limit": 569149.62128484,
+        "minimum": 106.1864339,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "DNT",
+      "market_info": {
+        "pair": "GNT_DNT",
+        "rate": 8.61803145,
+        "minerFee": 189,
+        "limit": 64399.3708438,
+        "minimum": 43.29574058,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "LTC",
+      "market_info": {
+        "pair": "DNT_LTC",
+        "rate": 0.00010897,
+        "minerFee": 0.004,
+        "limit": 569149.62128484,
+        "minimum": 72.9103378,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "DNT",
+      "market_info": {
+        "pair": "LTC_DNT",
+        "rate": 8959.73133803,
+        "minerFee": 189,
+        "limit": 62.41920074,
+        "minimum": 0.04196447,
+        "maxLimit": 62.41920074
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "MANA",
+      "market_info": {
+        "pair": "DNT_MANA",
+        "rate": 0.14780311,
+        "minerFee": 10,
+        "limit": 569149.62128484,
+        "minimum": 133.98416788,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "DNT",
+      "market_info": {
+        "pair": "MANA_DNT",
+        "rate": 6.55782173,
+        "minerFee": 189,
+        "limit": 85208.69135455,
+        "minimum": 57.28586083,
+        "maxLimit": 85208.69135455
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "MKR",
+      "market_info": {
+        "pair": "DNT_MKR",
+        "rate": 1.411e-05,
+        "minerFee": 0.0007,
+        "limit": 569149.62128484,
+        "minimum": 98.557575,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "DNT",
+      "market_info": {
+        "pair": "MKR_DNT",
+        "rate": 66994.31718864,
+        "minerFee": 189,
+        "limit": 8.28441384,
+        "minimum": 0.00556962,
+        "maxLimit": 8.28441384
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "REP",
+      "market_info": {
+        "pair": "DNT_REP",
+        "rate": 0.00058569,
+        "minerFee": 0.04,
+        "limit": 569149.62128484,
+        "minimum": 135.65104297,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "REP",
+      "to": "DNT",
+      "market_info": {
+        "pair": "REP_DNT",
+        "rate": 1661.2917313,
+        "minerFee": 189,
+        "limit": 336.36780842,
+        "minimum": 0.22614031,
+        "maxLimit": 336.36780842
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "RDD",
+      "market_info": {
+        "pair": "DNT_RDD",
+        "rate": 7.94017448,
+        "minerFee": 0.1,
+        "limit": 569149.62128484,
+        "minimum": 0.02503126,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "DNT",
+      "market_info": {
+        "pair": "RDD_DNT",
+        "rate": 0.11165807,
+        "minerFee": 189,
+        "limit": 3751201.13297663,
+        "minimum": 3368.40861689,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "RCN",
+      "market_info": {
+        "pair": "DNT_RCN",
+        "rate": 0.12748262,
+        "minerFee": 25.4089,
+        "limit": 538938.26996529,
+        "minimum": 390.72459396,
+        "maxLimit": 538938.26996529
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "DNT",
+      "market_info": {
+        "pair": "RCN_DNT",
+        "rate": 7.50254386,
+        "minerFee": 189,
+        "limit": 66252.64368584,
+        "minimum": 49.88487619,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "RLC",
+      "market_info": {
+        "pair": "DNT_RLC",
+        "rate": 0.01271242,
+        "minerFee": 1,
+        "limit": 569149.62128484,
+        "minimum": 156.34519284,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "DNT",
+      "market_info": {
+        "pair": "RLC_DNT",
+        "rate": 76.54820356,
+        "minerFee": 189,
+        "limit": 7295.72711916,
+        "minimum": 4.90492228,
+        "maxLimit": 7295.72711916
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "SC",
+      "market_info": {
+        "pair": "DNT_SC",
+        "rate": 2.92919166,
+        "minerFee": 5.588,
+        "limit": 569149.62128484,
+        "minimum": 3.74557566,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "SC",
+      "to": "DNT",
+      "market_info": {
+        "pair": "SC_DNT",
+        "rate": 0.32392605,
+        "minerFee": 189,
+        "limit": 1726834.63436087,
+        "minimum": 1160.95209269,
+        "maxLimit": 1726834.63436087
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "SNT",
+      "market_info": {
+        "pair": "DNT_SNT",
+        "rate": 0.38776849,
+        "minerFee": 45,
+        "limit": 569149.62128484,
+        "minimum": 229.29718373,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "DNT",
+      "market_info": {
+        "pair": "SNT_DNT",
+        "rate": 2.47516311,
+        "minerFee": 189,
+        "limit": 225608.85888769,
+        "minimum": 151.67698843,
+        "maxLimit": 225608.85888769
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "DNT_TUSD",
+        "rate": 0.00868987,
+        "minerFee": 0.35,
+        "limit": 569149.62128484,
+        "minimum": 79.70864707,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "DNT",
+      "market_info": {
+        "pair": "TUSD_DNT",
+        "rate": 111.51347882,
+        "minerFee": 189,
+        "limit": 5009.77007464,
+        "minimum": 3.36807181,
+        "maxLimit": 5009.77007464
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "XMR",
+      "market_info": {
+        "pair": "DNT_XMR",
+        "rate": 9.531e-05,
+        "minerFee": 0.001,
+        "limit": 569149.62128484,
+        "minimum": 20.84830049,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "DNT",
+      "market_info": {
+        "pair": "XMR_DNT",
+        "rate": 10226.68927274,
+        "minerFee": 189,
+        "limit": 54.67216098,
+        "minimum": 0.03675613,
+        "maxLimit": 54.67216098
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "XRP",
+      "market_info": {
+        "pair": "DNT_XRP",
+        "rate": 0.02760584,
+        "minerFee": 0.15,
+        "limit": 569149.62128484,
+        "minimum": 10.79948789,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "DNT",
+      "market_info": {
+        "pair": "XRP_DNT",
+        "rate": 35.4100178,
+        "minerFee": 189,
+        "limit": 15660.23159036,
+        "minimum": 10.52838429,
+        "maxLimit": 15660.23159036
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "DNT_ZEC",
+        "rate": 0.00013188,
+        "minerFee": 0.0005,
+        "limit": 569149.62128484,
+        "minimum": 7.53136411,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "DNT",
+      "market_info": {
+        "pair": "ZEC_DNT",
+        "rate": 7395.61852889,
+        "minerFee": 189,
+        "limit": 75.62308119,
+        "minimum": 0.05084145,
+        "maxLimit": 75.62308119
+      }
+    },
+    {
+      "from": "DNT",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "DNT_ZRX",
+        "rate": 0.02692631,
+        "minerFee": 2,
+        "limit": 569149.62128484,
+        "minimum": 147.49632335,
+        "maxLimit": 569149.62128484
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "DNT",
+      "market_info": {
+        "pair": "ZRX_DNT",
+        "rate": 36.00538032,
+        "minerFee": 189,
+        "limit": 15466.89539789,
+        "minimum": 10.39840424,
+        "maxLimit": 15466.89539789
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "ETH",
+      "market_info": {
+        "pair": "DOGE_ETH",
+        "rate": 1.063e-05,
+        "minerFee": 0.0013,
+        "limit": 3626856.89701515,
+        "minimum": 243.38170363,
+        "maxLimit": 3626856.89701515
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "ETH_DOGE",
+        "rate": 89883.87125793,
+        "minerFee": 2,
+        "limit": 38.77551816,
+        "minimum": 4.428e-05,
+        "maxLimit": 38.77551816
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "ETC",
+      "market_info": {
+        "pair": "DOGE_ETC",
+        "rate": 0.00027241,
+        "minerFee": 0.001,
+        "limit": 3626856.89701515,
+        "minimum": 7.30312158,
+        "maxLimit": 3626856.89701515
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "ETC_DOGE",
+        "rate": 3497.96108728,
+        "minerFee": 2,
+        "limit": 994.78719392,
+        "minimum": 0.00113599,
+        "maxLimit": 994.78719392
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "GNT",
+      "market_info": {
+        "pair": "DOGE_GNT",
+        "rate": 0.03695563,
+        "minerFee": 6,
+        "limit": 1727074.71286436,
+        "minimum": 322.22090285,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "GNT_DOGE",
+        "rate": 25.56732545,
+        "minerFee": 2,
+        "limit": 64399.3708438,
+        "minimum": 0.1544346,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "LTC",
+      "market_info": {
+        "pair": "DOGE_LTC",
+        "rate": 3.595e-05,
+        "minerFee": 0.004,
+        "limit": 3626856.89701515,
+        "minimum": 221.25843526,
+        "maxLimit": 3626856.89701515
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "LTC_DOGE",
+        "rate": 26555.86346458,
+        "minerFee": 2,
+        "limit": 131.22751093,
+        "minimum": 0.00014985,
+        "maxLimit": 131.22751093
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "MANA",
+      "market_info": {
+        "pair": "DOGE_MANA",
+        "rate": 0.04875288,
+        "minerFee": 10,
+        "limit": 1727074.71286436,
+        "minimum": 407.95319963,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "MANA_DOGE",
+        "rate": 19.45614754,
+        "minerFee": 2,
+        "limit": 85208.69135455,
+        "minimum": 0.20433694,
+        "maxLimit": 85208.69135455
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "MKR",
+      "market_info": {
+        "pair": "DOGE_MKR",
+        "rate": 4.66e-06,
+        "minerFee": 0.0007,
+        "limit": 1727074.71286436,
+        "minimum": 299.07126207,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "MKR_DOGE",
+        "rate": 198750.00571658,
+        "minerFee": 2,
+        "limit": 8.28441384,
+        "minimum": 1.987e-05,
+        "maxLimit": 8.28441384
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "REP",
+      "market_info": {
+        "pair": "DOGE_REP",
+        "rate": 0.00019311,
+        "minerFee": 0.04,
+        "limit": 1727074.71286436,
+        "minimum": 411.73301061,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "REP",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "REP_DOGE",
+        "rate": 4928.20534953,
+        "minerFee": 2,
+        "limit": 336.36780842,
+        "minimum": 0.00080664,
+        "maxLimit": 336.36780842
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "RDD",
+      "market_info": {
+        "pair": "DOGE_RDD",
+        "rate": 2.61990546,
+        "minerFee": 0.1,
+        "limit": 1727074.71286436,
+        "minimum": 0.07595694,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "RDD_DOGE",
+        "rate": 0.33125227,
+        "minerFee": 2,
+        "limit": 3751201.13297663,
+        "minimum": 12.01501201,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "RCN",
+      "market_info": {
+        "pair": "DOGE_RCN",
+        "rate": 0.04203973,
+        "minerFee": 25.4089,
+        "limit": 1635398.88817054,
+        "minimum": 1185.64704375,
+        "maxLimit": 1635398.88817054
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "RCN_DOGE",
+        "rate": 22.25754679,
+        "minerFee": 2,
+        "limit": 66252.64368584,
+        "minimum": 0.17793785,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "RLC",
+      "market_info": {
+        "pair": "DOGE_RLC",
+        "rate": 0.00419454,
+        "minerFee": 1,
+        "limit": 1727074.71286436,
+        "minimum": 474.42679206,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "RLC_DOGE",
+        "rate": 227.0930039,
+        "minerFee": 2,
+        "limit": 7295.72711916,
+        "minimum": 0.01749571,
+        "maxLimit": 7295.72711916
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "SC",
+      "market_info": {
+        "pair": "DOGE_SC",
+        "rate": 0.96609815,
+        "minerFee": 5.588,
+        "limit": 1727074.71286436,
+        "minimum": 11.38518168,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "SC",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "SC_DOGE",
+        "rate": 0.96098062,
+        "minerFee": 2,
+        "limit": 1726834.63436087,
+        "minimum": 4.14108112,
+        "maxLimit": 1726834.63436087
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "SNT",
+      "market_info": {
+        "pair": "DOGE_SNT",
+        "rate": 0.12864092,
+        "minerFee": 45,
+        "limit": 1727074.71286436,
+        "minimum": 692.692108,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "SNT_DOGE",
+        "rate": 7.34298388,
+        "minerFee": 2,
+        "limit": 225608.85888769,
+        "minimum": 0.54102725,
+        "maxLimit": 225608.85888769
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "DOGE_TUSD",
+        "rate": 0.00286805,
+        "minerFee": 0.35,
+        "limit": 1727074.71286436,
+        "minimum": 241.8020109,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "TUSD_DOGE",
+        "rate": 330.8233205,
+        "minerFee": 2,
+        "limit": 5009.77007464,
+        "minimum": 0.01201381,
+        "maxLimit": 5009.77007464
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "XMR",
+      "market_info": {
+        "pair": "DOGE_XMR",
+        "rate": 3.144e-05,
+        "minerFee": 0.001,
+        "limit": 3626856.89701515,
+        "minimum": 63.25000285,
+        "maxLimit": 3626856.89701515
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "XMR_DOGE",
+        "rate": 30329.2495762,
+        "minerFee": 2,
+        "limit": 114.81153806,
+        "minimum": 0.00013111,
+        "maxLimit": 114.81153806
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "XRP",
+      "market_info": {
+        "pair": "DOGE_XRP",
+        "rate": 0.00910216,
+        "minerFee": 0.15,
+        "limit": 3626856.89701515,
+        "minimum": 32.78121396,
+        "maxLimit": 3626856.89701515
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "XRP_DOGE",
+        "rate": 105.1116497,
+        "minerFee": 2,
+        "limit": 32886.48633976,
+        "minimum": 0.03755443,
+        "maxLimit": 32886.48633976
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "DOGE_ZEC",
+        "rate": 4.346e-05,
+        "minerFee": 0.0005,
+        "limit": 3626856.89701515,
+        "minimum": 22.87575133,
+        "maxLimit": 3626856.89701515
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "ZEC_DOGE",
+        "rate": 21928.67825373,
+        "minerFee": 2,
+        "limit": 158.83245245,
+        "minimum": 0.00018138,
+        "maxLimit": 158.83245245
+      }
+    },
+    {
+      "from": "DOGE",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "DOGE_ZRX",
+        "rate": 0.00888469,
+        "minerFee": 2,
+        "limit": 1727074.71286436,
+        "minimum": 447.57505015,
+        "maxLimit": 1727074.71286436
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "DOGE",
+      "market_info": {
+        "pair": "ZRX_DOGE",
+        "rate": 106.7424307,
+        "minerFee": 2,
+        "limit": 15466.89539789,
+        "minimum": 0.03709079,
+        "maxLimit": 15466.89539789
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "ETC",
+      "market_info": {
+        "pair": "ETH_ETC",
+        "rate": 25.47498334,
+        "minerFee": 0.001,
+        "limit": 38.7612362,
+        "minimum": 7.807e-05,
+        "maxLimit": 38.7612362
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "ETH",
+      "market_info": {
+        "pair": "ETC_ETH",
+        "rate": 0.03871921,
+        "minerFee": 0.0013,
+        "limit": 994.50501147,
+        "minimum": 0.06675143,
+        "maxLimit": 994.50501147
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "GNT",
+      "market_info": {
+        "pair": "ETH_GNT",
+        "rate": 3457.86665447,
+        "minerFee": 6,
+        "limit": 18.45773152,
+        "minimum": 0.00344367,
+        "maxLimit": 18.45773152
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "ETH",
+      "market_info": {
+        "pair": "GNT_ETH",
+        "rate": 0.0002827,
+        "minerFee": 0.0013,
+        "limit": 64399.3708438,
+        "minimum": 9.07725406,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "LTC",
+      "market_info": {
+        "pair": "ETH_LTC",
+        "rate": 3.36165462,
+        "minerFee": 0.004,
+        "limit": 94.13443078,
+        "minimum": 0.00236449,
+        "maxLimit": 94.13443078
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "ETH",
+      "market_info": {
+        "pair": "LTC_ETH",
+        "rate": 0.29354713,
+        "minerFee": 0.0013,
+        "limit": 318.65562629,
+        "minimum": 0.00880692,
+        "maxLimit": 318.65562629
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "MANA",
+      "market_info": {
+        "pair": "ETH_MANA",
+        "rate": 4560.4208106,
+        "minerFee": 10,
+        "limit": 18.45773152,
+        "minimum": 0.00435991,
+        "maxLimit": 18.45773152
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "ETH",
+      "market_info": {
+        "pair": "MANA_ETH",
+        "rate": 0.00021514,
+        "minerFee": 0.0013,
+        "limit": 85208.69135455,
+        "minimum": 12.01038037,
+        "maxLimit": 85208.69135455
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "MKR",
+      "market_info": {
+        "pair": "ETH_MKR",
+        "rate": 0.43563077,
+        "minerFee": 0.0007,
+        "limit": 18.45773152,
+        "minimum": 0.00319626,
+        "maxLimit": 18.45773152
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "ETH",
+      "market_info": {
+        "pair": "MKR_ETH",
+        "rate": 2.19762225,
+        "minerFee": 0.0013,
+        "limit": 8.28441384,
+        "minimum": 0.00116771,
+        "maxLimit": 8.28441384
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "REP",
+      "market_info": {
+        "pair": "ETH_REP",
+        "rate": 18.05741489,
+        "minerFee": 0.04,
+        "limit": 18.46214269,
+        "minimum": 0.00440375,
+        "maxLimit": 18.46214269
+      }
+    },
+    {
+      "from": "REP",
+      "to": "ETH",
+      "market_info": {
+        "pair": "REP_ETH",
+        "rate": 0.05451299,
+        "minerFee": 0.0013,
+        "limit": 336.14205821,
+        "minimum": 0.04738007,
+        "maxLimit": 336.14205821
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "RDD",
+      "market_info": {
+        "pair": "ETH_RDD",
+        "rate": 245067.64285375,
+        "minerFee": 0.1,
+        "limit": 18.46214269,
+        "minimum": 8.1e-07,
+        "maxLimit": 18.46214269
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "ETH",
+      "market_info": {
+        "pair": "RDD_ETH",
+        "rate": 3.66e-06,
+        "minerFee": 0.0013,
+        "limit": 3751201.13297663,
+        "minimum": 706.21036589,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "RCN",
+      "market_info": {
+        "pair": "ETH_RCN",
+        "rate": 3932.43758553,
+        "minerFee": 25.4089,
+        "limit": 17.4821433,
+        "minimum": 0.01267437,
+        "maxLimit": 17.4821433
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "ETH",
+      "market_info": {
+        "pair": "RCN_ETH",
+        "rate": 0.00024611,
+        "minerFee": 0.0013,
+        "limit": 66252.64368584,
+        "minimum": 10.45871231,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "RLC",
+      "market_info": {
+        "pair": "ETH_RLC",
+        "rate": 392.35954568,
+        "minerFee": 1,
+        "limit": 18.46214269,
+        "minimum": 0.00507154,
+        "maxLimit": 18.46214269
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "ETH",
+      "market_info": {
+        "pair": "RLC_ETH",
+        "rate": 0.00251099,
+        "minerFee": 0.0013,
+        "limit": 7295.72711916,
+        "minimum": 1.02838908,
+        "maxLimit": 7295.72711916
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "SC",
+      "market_info": {
+        "pair": "ETH_SC",
+        "rate": 90531.57853146,
+        "minerFee": 5.588,
+        "limit": 18.44414468,
+        "minimum": 0.00012155,
+        "maxLimit": 18.44414468
+      }
+    },
+    {
+      "from": "SC",
+      "to": "ETH",
+      "market_info": {
+        "pair": "SC_ETH",
+        "rate": 1.062e-05,
+        "minerFee": 0.0013,
+        "limit": 1726834.63436087,
+        "minimum": 243.43759487,
+        "maxLimit": 1726834.63436087
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "SNT",
+      "market_info": {
+        "pair": "ETH_SNT",
+        "rate": 12031.06141707,
+        "minerFee": 45,
+        "limit": 18.44414468,
+        "minimum": 0.00743072,
+        "maxLimit": 18.44414468
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "ETH",
+      "market_info": {
+        "pair": "SNT_ETH",
+        "rate": 8.116e-05,
+        "minerFee": 0.0013,
+        "limit": 225608.85888769,
+        "minimum": 31.80482769,
+        "maxLimit": 225608.85888769
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "ETH_TUSD",
+        "rate": 268.5406403,
+        "minerFee": 0.35,
+        "limit": 18.44414468,
+        "minimum": 0.0025823,
+        "maxLimit": 18.44414468
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "ETH",
+      "market_info": {
+        "pair": "TUSD_ETH",
+        "rate": 0.00365665,
+        "minerFee": 0.0013,
+        "limit": 5009.77007464,
+        "minimum": 0.70624387,
+        "maxLimit": 5009.77007464
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "XMR",
+      "market_info": {
+        "pair": "ETH_XMR",
+        "rate": 2.94283255,
+        "minerFee": 0.001,
+        "limit": 38.73270382,
+        "minimum": 0.00067533,
+        "maxLimit": 38.73270382
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "ETH",
+      "market_info": {
+        "pair": "XMR_ETH",
+        "rate": 0.33512027,
+        "minerFee": 0.0013,
+        "limit": 114.89933364,
+        "minimum": 0.00771321,
+        "maxLimit": 114.89933364
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "XRP",
+      "market_info": {
+        "pair": "ETH_XRP",
+        "rate": 851.18872095,
+        "minerFee": 0.15,
+        "limit": 38.74696476,
+        "minimum": 0.00035029,
+        "maxLimit": 38.74696476
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "ETH",
+      "market_info": {
+        "pair": "XRP_ETH",
+        "rate": 0.00116024,
+        "minerFee": 0.0013,
+        "limit": 32886.48633976,
+        "minimum": 2.20767469,
+        "maxLimit": 32886.48633976
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "ETH_ZEC",
+        "rate": 4.06702287,
+        "minerFee": 0.0005,
+        "limit": 38.74696476,
+        "minimum": 0.00024439,
+        "maxLimit": 38.74696476
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "ETH",
+      "market_info": {
+        "pair": "ZEC_ETH",
+        "rate": 0.24238406,
+        "minerFee": 0.0013,
+        "limit": 158.78449579,
+        "minimum": 0.01065923,
+        "maxLimit": 158.78449579
+      }
+    },
+    {
+      "from": "ETH",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "ETH_ZRX",
+        "rate": 831.38227108,
+        "minerFee": 2,
+        "limit": 18.4509356,
+        "minimum": 0.0047816,
+        "maxLimit": 18.4509356
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "ETH",
+      "market_info": {
+        "pair": "ZRX_ETH",
+        "rate": 0.00118007,
+        "minerFee": 0.0013,
+        "limit": 15466.89539789,
+        "minimum": 2.18041945,
+        "maxLimit": 15466.89539789
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "GNT",
+      "market_info": {
+        "pair": "ETC_GNT",
+        "rate": 134.83461246,
+        "minerFee": 6,
+        "limit": 473.30529837,
+        "minimum": 0.08830473,
+        "maxLimit": 473.30529837
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "ETC",
+      "market_info": {
+        "pair": "GNT_ETC",
+        "rate": 0.00724196,
+        "minerFee": 0.001,
+        "limit": 64399.3708438,
+        "minimum": 0.2723969,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "LTC",
+      "market_info": {
+        "pair": "ETC_LTC",
+        "rate": 0.13109942,
+        "minerFee": 0.004,
+        "limit": 993.94112657,
+        "minimum": 0.06066622,
+        "maxLimit": 993.94112657
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "ETC",
+      "market_info": {
+        "pair": "LTC_ETC",
+        "rate": 7.52318884,
+        "minerFee": 0.001,
+        "limit": 131.16205264,
+        "minimum": 0.00026419,
+        "maxLimit": 131.16205264
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "MANA",
+      "market_info": {
+        "pair": "ETC_MANA",
+        "rate": 177.75056521,
+        "minerFee": 10,
+        "limit": 473.30529837,
+        "minimum": 0.11179969,
+        "maxLimit": 473.30529837
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "ETC",
+      "market_info": {
+        "pair": "MANA_ETC",
+        "rate": 0.00551083,
+        "minerFee": 0.001,
+        "limit": 85208.69135455,
+        "minimum": 0.3604163,
+        "maxLimit": 85208.69135455
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "MKR",
+      "market_info": {
+        "pair": "ETC_MKR",
+        "rate": 0.0169865,
+        "minerFee": 0.0007,
+        "limit": 473.35002999,
+        "minimum": 0.08196831,
+        "maxLimit": 473.35002999
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "ETC",
+      "market_info": {
+        "pair": "MKR_ETC",
+        "rate": 56.29237411,
+        "minerFee": 0.001,
+        "limit": 8.28441384,
+        "minimum": 3.504e-05,
+        "maxLimit": 8.28441384
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "REP",
+      "market_info": {
+        "pair": "ETC_REP",
+        "rate": 0.70386899,
+        "minerFee": 0.04,
+        "limit": 473.35002999,
+        "minimum": 0.11298322,
+        "maxLimit": 473.35002999
+      }
+    },
+    {
+      "from": "REP",
+      "to": "ETC",
+      "market_info": {
+        "pair": "REP_ETC",
+        "rate": 1.39596672,
+        "minerFee": 0.001,
+        "limit": 336.14205821,
+        "minimum": 0.00142182,
+        "maxLimit": 336.14205821
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "RDD",
+      "market_info": {
+        "pair": "ETC_RDD",
+        "rate": 9555.99122355,
+        "minerFee": 0.1,
+        "limit": 473.35002999,
+        "minimum": 2.082e-05,
+        "maxLimit": 473.35002999
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "ETC",
+      "market_info": {
+        "pair": "RDD_ETC",
+        "rate": 9.383e-05,
+        "minerFee": 0.001,
+        "limit": 3751201.13297663,
+        "minimum": 21.19247868,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "RCN",
+      "market_info": {
+        "pair": "ETC_RCN",
+        "rate": 153.32762514,
+        "minerFee": 25.4089,
+        "limit": 448.39337957,
+        "minimum": 0.3250805,
+        "maxLimit": 448.39337957
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "ETC",
+      "market_info": {
+        "pair": "RCN_ETC",
+        "rate": 0.00630416,
+        "minerFee": 0.001,
+        "limit": 66252.64368584,
+        "minimum": 0.31382305,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "RLC",
+      "market_info": {
+        "pair": "ETC_RLC",
+        "rate": 15.28713858,
+        "minerFee": 1,
+        "limit": 473.52904106,
+        "minimum": 0.13007825,
+        "maxLimit": 473.52904106
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "ETC",
+      "market_info": {
+        "pair": "RLC_ETC",
+        "rate": 0.06432262,
+        "minerFee": 0.001,
+        "limit": 7295.72711916,
+        "minimum": 0.0308566,
+        "maxLimit": 7295.72711916
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "SC",
+      "market_info": {
+        "pair": "ETC_SC",
+        "rate": 3523.62611763,
+        "minerFee": 5.588,
+        "limit": 473.52904106,
+        "minimum": 0.00312053,
+        "maxLimit": 473.52904106
+      }
+    },
+    {
+      "from": "SC",
+      "to": "ETC",
+      "market_info": {
+        "pair": "SC_ETC",
+        "rate": 0.00027219,
+        "minerFee": 0.001,
+        "limit": 1726834.63436087,
+        "minimum": 7.30348674,
+        "maxLimit": 1726834.63436087
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "SNT",
+      "market_info": {
+        "pair": "ETC_SNT",
+        "rate": 468.42936538,
+        "minerFee": 45,
+        "limit": 473.52904106,
+        "minimum": 0.1899222,
+        "maxLimit": 473.52904106
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "ETC",
+      "market_info": {
+        "pair": "SNT_ETC",
+        "rate": 0.00207514,
+        "minerFee": 0.001,
+        "limit": 225608.85888769,
+        "minimum": 0.95419172,
+        "maxLimit": 225608.85888769
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "ETC_TUSD",
+        "rate": 10.45270483,
+        "minerFee": 0.35,
+        "limit": 473.52904106,
+        "minimum": 0.06629723,
+        "maxLimit": 473.52904106
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "ETC",
+      "market_info": {
+        "pair": "TUSD_ETC",
+        "rate": 0.09370505,
+        "minerFee": 0.001,
+        "limit": 5009.77007464,
+        "minimum": 0.02118836,
+        "maxLimit": 5009.77007464
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "XMR",
+      "market_info": {
+        "pair": "ETC_XMR",
+        "rate": 0.11453133,
+        "minerFee": 0.001,
+        "limit": 994.41098623,
+        "minimum": 0.01733998,
+        "maxLimit": 994.41098623
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "ETC",
+      "market_info": {
+        "pair": "XMR_ETC",
+        "rate": 8.58903567,
+        "minerFee": 0.001,
+        "limit": 114.87423549,
+        "minimum": 0.00023136,
+        "maxLimit": 114.87423549
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "XRP",
+      "market_info": {
+        "pair": "ETC_XRP",
+        "rate": 33.13204397,
+        "minerFee": 0.15,
+        "limit": 994.41098623,
+        "minimum": 0.00899363,
+        "maxLimit": 994.41098623
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "ETC",
+      "market_info": {
+        "pair": "XRP_ETC",
+        "rate": 0.0297077,
+        "minerFee": 0.001,
+        "limit": 33218.67307046,
+        "minimum": 0.06690252,
+        "maxLimit": 33218.67307046
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "ETC_ZEC",
+        "rate": 0.15838026,
+        "minerFee": 0.0005,
+        "limit": 994.3832538,
+        "minimum": 0.00627189,
+        "maxLimit": 994.3832538
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "ETC",
+      "market_info": {
+        "pair": "ZEC_ETC",
+        "rate": 6.20726957,
+        "minerFee": 0.001,
+        "limit": 158.85644165,
+        "minimum": 0.00031994,
+        "maxLimit": 158.85644165
+      }
+    },
+    {
+      "from": "ETC",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "ETC_ZRX",
+        "rate": 32.38950301,
+        "minerFee": 2,
+        "limit": 473.51583514,
+        "minimum": 0.12271263,
+        "maxLimit": 473.51583514
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "ETC",
+      "market_info": {
+        "pair": "ZRX_ETC",
+        "rate": 0.03023675,
+        "minerFee": 0.001,
+        "limit": 15466.89539789,
+        "minimum": 0.0654158,
+        "maxLimit": 15466.89539789
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "LTC",
+      "market_info": {
+        "pair": "GNT_LTC",
+        "rate": 0.0009571,
+        "minerFee": 0.004,
+        "limit": 64399.3708438,
+        "minimum": 8.25092599,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "GNT",
+      "market_info": {
+        "pair": "LTC_GNT",
+        "rate": 1020.89815031,
+        "minerFee": 6,
+        "limit": 62.53610522,
+        "minimum": 0.01166738,
+        "maxLimit": 62.53610522
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "MANA",
+      "market_info": {
+        "pair": "GNT_MANA",
+        "rate": 1.29661998,
+        "minerFee": 10,
+        "limit": 64399.3708438,
+        "minimum": 15.21180826,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "GNT",
+      "market_info": {
+        "pair": "MANA_GNT",
+        "rate": 0.74846573,
+        "minerFee": 6,
+        "limit": 85208.69135455,
+        "minimum": 15.89741385,
+        "maxLimit": 85208.69135455
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "MKR",
+      "market_info": {
+        "pair": "GNT_MKR",
+        "rate": 0.00012391,
+        "minerFee": 0.0007,
+        "limit": 64399.3708438,
+        "minimum": 11.1518054,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "GNT",
+      "market_info": {
+        "pair": "MKR_GNT",
+        "rate": 7645.47375026,
+        "minerFee": 6,
+        "limit": 8.28441384,
+        "minimum": 0.00154563,
+        "maxLimit": 8.28441384
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "REP",
+      "market_info": {
+        "pair": "GNT_REP",
+        "rate": 0.00513381,
+        "minerFee": 0.04,
+        "limit": 64399.3708438,
+        "minimum": 15.37139069,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "REP",
+      "to": "GNT",
+      "market_info": {
+        "pair": "REP_GNT",
+        "rate": 189.81607794,
+        "minerFee": 6,
+        "limit": 335.46662206,
+        "minimum": 0.06258812,
+        "maxLimit": 335.46662206
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "RDD",
+      "market_info": {
+        "pair": "GNT_RDD",
+        "rate": 69.7047195,
+        "minerFee": 0.1,
+        "limit": 64399.3708438,
+        "minimum": 0.00283229,
+        "maxLimit": 64399.3708438
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "GNT",
+      "market_info": {
+        "pair": "RDD_GNT",
+        "rate": 0.01274873,
+        "minerFee": 6,
+        "limit": 3751201.13297663,
+        "minimum": 934.76793435,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "RCN",
+      "market_info": {
+        "pair": "GNT_RCN",
+        "rate": 1.11833142,
+        "minerFee": 25.4089,
+        "limit": 61071.16010948,
+        "minimum": 44.27595064,
+        "maxLimit": 61071.16010948
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "GNT",
+      "market_info": {
+        "pair": "RCN_GNT",
+        "rate": 0.85630654,
+        "minerFee": 6,
+        "limit": 66252.64368584,
+        "minimum": 13.86410413,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "RLC",
+      "market_info": {
+        "pair": "GNT_RLC",
+        "rate": 0.11160246,
+        "minerFee": 1,
+        "limit": 64391.89202833,
+        "minimum": 17.69048362,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "GNT",
+      "market_info": {
+        "pair": "RLC_GNT",
+        "rate": 8.735774,
+        "minerFee": 6,
+        "limit": 7294.87985317,
+        "minimum": 1.36116623,
+        "maxLimit": 7294.87985317
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "SC",
+      "market_info": {
+        "pair": "GNT_SC",
+        "rate": 25.72384307,
+        "minerFee": 5.588,
+        "limit": 64391.89202833,
+        "minimum": 0.42438812,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "SC",
+      "to": "GNT",
+      "market_info": {
+        "pair": "SC_GNT",
+        "rate": 0.03696681,
+        "minerFee": 6,
+        "limit": 1726634.0939299,
+        "minimum": 322.17611133,
+        "maxLimit": 1726634.0939299
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "SNT",
+      "market_info": {
+        "pair": "GNT_SNT",
+        "rate": 3.41962796,
+        "minerFee": 45,
+        "limit": 64391.89202833,
+        "minimum": 25.82918713,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "GNT",
+      "market_info": {
+        "pair": "SNT_GNT",
+        "rate": 0.28160975,
+        "minerFee": 6,
+        "limit": 225582.65852264,
+        "minimum": 42.09191974,
+        "maxLimit": 225582.65852264
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "GNT_TUSD",
+        "rate": 0.07630878,
+        "minerFee": 0.35,
+        "limit": 64391.89202833,
+        "minimum": 9.01634264,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "GNT",
+      "market_info": {
+        "pair": "TUSD_GNT",
+        "rate": 12.72604476,
+        "minerFee": 6,
+        "limit": 5009.18828098,
+        "minimum": 0.93467447,
+        "maxLimit": 5009.18828098
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "XMR",
+      "market_info": {
+        "pair": "GNT_XMR",
+        "rate": 0.00083663,
+        "minerFee": 0.001,
+        "limit": 64391.89202833,
+        "minimum": 2.35847376,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "GNT",
+      "market_info": {
+        "pair": "XMR_GNT",
+        "rate": 1166.92416862,
+        "minerFee": 6,
+        "limit": 54.69566426,
+        "minimum": 0.01020577,
+        "maxLimit": 54.69566426
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "XRP",
+      "market_info": {
+        "pair": "GNT_XRP",
+        "rate": 0.24190471,
+        "minerFee": 0.15,
+        "limit": 64391.89202833,
+        "minimum": 1.22312205,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "GNT",
+      "market_info": {
+        "pair": "XRP_GNT",
+        "rate": 4.05710528,
+        "minerFee": 6,
+        "limit": 15658.41293933,
+        "minimum": 2.92173461,
+        "maxLimit": 15658.41293933
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "GNT_ZEC",
+        "rate": 0.00115661,
+        "minerFee": 0.0005,
+        "limit": 64391.89202833,
+        "minimum": 0.85299378,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "GNT",
+      "market_info": {
+        "pair": "ZEC_GNT",
+        "rate": 843.97805278,
+        "minerFee": 6,
+        "limit": 75.59147199,
+        "minimum": 0.01410476,
+        "maxLimit": 75.59147199
+      }
+    },
+    {
+      "from": "GNT",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "GNT_ZRX",
+        "rate": 0.23639503,
+        "minerFee": 2,
+        "limit": 64391.89202833,
+        "minimum": 16.68923262,
+        "maxLimit": 64391.89202833
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "GNT",
+      "market_info": {
+        "pair": "ZRX_GNT",
+        "rate": 4.10857323,
+        "minerFee": 6,
+        "limit": 15470.91448626,
+        "minimum": 2.8867489,
+        "maxLimit": 15470.91448626
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "MANA",
+      "market_info": {
+        "pair": "LTC_MANA",
+        "rate": 1346.05342358,
+        "minerFee": 10,
+        "limit": 62.5054296,
+        "minimum": 0.01476615,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "LTC",
+      "market_info": {
+        "pair": "MANA_LTC",
+        "rate": 0.00072817,
+        "minerFee": 0.004,
+        "limit": 85198.79591503,
+        "minimum": 10.91704152,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "MKR",
+      "market_info": {
+        "pair": "LTC_MKR",
+        "rate": 0.12863528,
+        "minerFee": 0.0007,
+        "limit": 62.5054296,
+        "minimum": 0.0108251,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "LTC",
+      "market_info": {
+        "pair": "MKR_LTC",
+        "rate": 7.4377224,
+        "minerFee": 0.004,
+        "limit": 8.28345176,
+        "minimum": 0.00106141,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "REP",
+      "market_info": {
+        "pair": "LTC_REP",
+        "rate": 5.32516588,
+        "minerFee": 0.04,
+        "limit": 62.5054296,
+        "minimum": 0.01492926,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "REP",
+      "to": "LTC",
+      "market_info": {
+        "pair": "REP_LTC",
+        "rate": 0.18461542,
+        "minerFee": 0.004,
+        "limit": 335.42766371,
+        "minimum": 0.04298039,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "RDD",
+      "market_info": {
+        "pair": "LTC_RDD",
+        "rate": 72365.46170747,
+        "minerFee": 0.1,
+        "limit": 62.5054296,
+        "minimum": 2.75e-06,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "LTC",
+      "market_info": {
+        "pair": "RDD_LTC",
+        "rate": 1.24e-05,
+        "minerFee": 0.004,
+        "limit": 3751201.13297663,
+        "minimum": 641.92204163,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "RCN",
+      "market_info": {
+        "pair": "LTC_RCN",
+        "rate": 1159.58574378,
+        "minerFee": 25.4089,
+        "limit": 59.28198378,
+        "minimum": 0.04297882,
+        "maxLimit": 59.28198378
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "LTC",
+      "market_info": {
+        "pair": "RCN_LTC",
+        "rate": 0.00083318,
+        "minerFee": 0.004,
+        "limit": 66252.64368584,
+        "minimum": 9.52073098,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "RLC",
+      "market_info": {
+        "pair": "LTC_RLC",
+        "rate": 115.85894958,
+        "minerFee": 1,
+        "limit": 62.5054296,
+        "minimum": 0.01717221,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "LTC",
+      "market_info": {
+        "pair": "RLC_LTC",
+        "rate": 0.00850087,
+        "minerFee": 0.004,
+        "limit": 7294.87985317,
+        "minimum": 0.93473746,
+        "maxLimit": 7294.87985317
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "SC",
+      "market_info": {
+        "pair": "LTC_SC",
+        "rate": 26709.23328389,
+        "minerFee": 5.588,
+        "limit": 62.5054296,
+        "minimum": 0.00041196,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "SC",
+      "to": "LTC",
+      "market_info": {
+        "pair": "SC_LTC",
+        "rate": 3.597e-05,
+        "minerFee": 0.004,
+        "limit": 1726634.0939299,
+        "minimum": 221.24416077,
+        "maxLimit": 1726634.0939299
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "SNT",
+      "market_info": {
+        "pair": "LTC_SNT",
+        "rate": 3551.44234453,
+        "minerFee": 45,
+        "limit": 62.5054296,
+        "minimum": 0.02507248,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "LTC",
+      "market_info": {
+        "pair": "SNT_LTC",
+        "rate": 0.00027392,
+        "minerFee": 0.004,
+        "limit": 225582.65852264,
+        "minimum": 28.90528233,
+        "maxLimit": 225582.65852264
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "LTC_TUSD",
+        "rate": 79.23376156,
+        "minerFee": 0.35,
+        "limit": 62.5054296,
+        "minimum": 0.00875219,
+        "maxLimit": 62.5054296
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "LTC",
+      "market_info": {
+        "pair": "TUSD_LTC",
+        "rate": 0.01238294,
+        "minerFee": 0.004,
+        "limit": 5009.18828098,
+        "minimum": 0.64189017,
+        "maxLimit": 5009.18828098
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "XMR",
+      "market_info": {
+        "pair": "LTC_XMR",
+        "rate": 0.86789235,
+        "minerFee": 0.001,
+        "limit": 131.26140215,
+        "minimum": 0.00228938,
+        "maxLimit": 131.26140215
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "LTC",
+      "market_info": {
+        "pair": "XMR_LTC",
+        "rate": 1.13516719,
+        "minerFee": 0.004,
+        "limit": 114.78567497,
+        "minimum": 0.00700425,
+        "maxLimit": 114.78567497
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "XRP",
+      "market_info": {
+        "pair": "LTC_XRP",
+        "rate": 251.02613132,
+        "minerFee": 0.15,
+        "limit": 131.26140215,
+        "minimum": 0.00118729,
+        "maxLimit": 131.26140215
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "LTC",
+      "market_info": {
+        "pair": "XRP_LTC",
+        "rate": 0.00393544,
+        "minerFee": 0.004,
+        "limit": 32882.66717259,
+        "minimum": 2.00650901,
+        "maxLimit": 32882.66717259
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "LTC_ZEC",
+        "rate": 1.19977138,
+        "minerFee": 0.0005,
+        "limit": 131.26140215,
+        "minimum": 0.000828,
+        "maxLimit": 131.26140215
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "LTC",
+      "market_info": {
+        "pair": "ZEC_LTC",
+        "rate": 0.82087323,
+        "minerFee": 0.004,
+        "limit": 158.76605586,
+        "minimum": 0.00968795,
+        "maxLimit": 158.76605586
+      }
+    },
+    {
+      "from": "LTC",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "LTC_ZRX",
+        "rate": 245.25099756,
+        "minerFee": 2,
+        "limit": 62.54446134,
+        "minimum": 0.01621041,
+        "maxLimit": 62.56790379
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "LTC",
+      "market_info": {
+        "pair": "ZRX_LTC",
+        "rate": 0.00399783,
+        "minerFee": 0.004,
+        "limit": 15470.91448626,
+        "minimum": 1.98248248,
+        "maxLimit": 15470.91448626
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "MKR",
+      "market_info": {
+        "pair": "MANA_MKR",
+        "rate": 9.429e-05,
+        "minerFee": 0.0007,
+        "limit": 85198.79591503,
+        "minimum": 14.75527994,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "MANA",
+      "market_info": {
+        "pair": "MKR_MANA",
+        "rate": 10078.40772995,
+        "minerFee": 10,
+        "limit": 8.28345176,
+        "minimum": 0.00195687,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "REP",
+      "market_info": {
+        "pair": "MANA_REP",
+        "rate": 0.00390321,
+        "minerFee": 0.04,
+        "limit": 85198.79591503,
+        "minimum": 20.34951771,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "REP",
+      "to": "MANA",
+      "market_info": {
+        "pair": "REP_MANA",
+        "rate": 250.19342667,
+        "minerFee": 10,
+        "limit": 335.42766371,
+        "minimum": 0.07924074,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "RDD",
+      "market_info": {
+        "pair": "MANA_RDD",
+        "rate": 53.03471057,
+        "minerFee": 0.1,
+        "limit": 85198.79591503,
+        "minimum": 0.00374749,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "MANA",
+      "market_info": {
+        "pair": "RDD_MANA",
+        "rate": 0.01680234,
+        "minerFee": 10,
+        "limit": 3751201.13297663,
+        "minimum": 1183.47868295,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "RCN",
+      "market_info": {
+        "pair": "MANA_RCN",
+        "rate": 0.84971774,
+        "minerFee": 25.4089,
+        "limit": 80805.03837615,
+        "minimum": 58.58280543,
+        "maxLimit": 80805.03837615
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "MANA",
+      "market_info": {
+        "pair": "RCN_MANA",
+        "rate": 1.12870391,
+        "minerFee": 10,
+        "limit": 66252.64368584,
+        "minimum": 17.55288248,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "RLC",
+      "market_info": {
+        "pair": "MANA_RLC",
+        "rate": 0.08490992,
+        "minerFee": 1,
+        "limit": 85198.79591503,
+        "minimum": 23.40679636,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "MANA",
+      "market_info": {
+        "pair": "RLC_MANA",
+        "rate": 11.51625677,
+        "minerFee": 10,
+        "limit": 7294.87985317,
+        "minimum": 1.72332743,
+        "maxLimit": 7294.87985317
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "SC",
+      "market_info": {
+        "pair": "MANA_SC",
+        "rate": 19.57096354,
+        "minerFee": 5.588,
+        "limit": 85198.79591503,
+        "minimum": 0.56152034,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "SC",
+      "to": "MANA",
+      "market_info": {
+        "pair": "SC_MANA",
+        "rate": 0.0487329,
+        "minerFee": 10,
+        "limit": 1726634.0939299,
+        "minimum": 407.89649056,
+        "maxLimit": 1726634.0939299
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "SNT",
+      "market_info": {
+        "pair": "MANA_SNT",
+        "rate": 2.60285083,
+        "minerFee": 45,
+        "limit": 85198.79591503,
+        "minimum": 34.17535304,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "MANA",
+      "market_info": {
+        "pair": "SNT_MANA",
+        "rate": 0.37095172,
+        "minerFee": 10,
+        "limit": 225582.65852264,
+        "minimum": 53.29118374,
+        "maxLimit": 225582.65852264
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "MANA_TUSD",
+        "rate": 0.05805786,
+        "minerFee": 0.35,
+        "limit": 85198.79591503,
+        "minimum": 11.92978669,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "MANA",
+      "market_info": {
+        "pair": "TUSD_MANA",
+        "rate": 16.7755702,
+        "minerFee": 10,
+        "limit": 5009.18828098,
+        "minimum": 1.18336035,
+        "maxLimit": 5009.18828098
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "XMR",
+      "market_info": {
+        "pair": "MANA_XMR",
+        "rate": 0.00063645,
+        "minerFee": 0.001,
+        "limit": 85198.79591503,
+        "minimum": 3.12056562,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "MANA",
+      "market_info": {
+        "pair": "XMR_MANA",
+        "rate": 1538.50733397,
+        "minerFee": 10,
+        "limit": 54.65984522,
+        "minimum": 0.01291273,
+        "maxLimit": 54.65984522
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "XRP",
+      "market_info": {
+        "pair": "MANA_XRP",
+        "rate": 0.18399054,
+        "minerFee": 0.15,
+        "limit": 85198.79591503,
+        "minimum": 1.6188594,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "MANA",
+      "market_info": {
+        "pair": "XRP_MANA",
+        "rate": 5.34003261,
+        "minerFee": 10,
+        "limit": 15658.41293933,
+        "minimum": 3.6991113,
+        "maxLimit": 15658.41293933
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "MANA_ZEC",
+        "rate": 0.00087957,
+        "minerFee": 0.0005,
+        "limit": 85198.79591503,
+        "minimum": 1.12896159,
+        "maxLimit": 85198.79591503
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "MANA",
+      "market_info": {
+        "pair": "ZEC_MANA",
+        "rate": 1111.42018838,
+        "minerFee": 10,
+        "limit": 75.58745121,
+        "minimum": 0.01785662,
+        "maxLimit": 75.58006368
+      }
+    },
+    {
+      "from": "MANA",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "MANA_ZRX",
+        "rate": 0.17990143,
+        "minerFee": 2,
+        "limit": 85168.96291161,
+        "minimum": 22.08108853,
+        "maxLimit": 85168.96291161
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "MANA",
+      "market_info": {
+        "pair": "ZRX_MANA",
+        "rate": 5.40969213,
+        "minerFee": 10,
+        "limit": 15466.13656332,
+        "minimum": 3.65368832,
+        "maxLimit": 15466.13656332
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "REP",
+      "market_info": {
+        "pair": "MKR_REP",
+        "rate": 39.87337552,
+        "minerFee": 0.04,
+        "limit": 8.28345176,
+        "minimum": 0.00197848,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "REP",
+      "to": "MKR",
+      "market_info": {
+        "pair": "REP_MKR",
+        "rate": 0.02391663,
+        "minerFee": 0.0007,
+        "limit": 335.42766371,
+        "minimum": 0.05809154,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "RDD",
+      "market_info": {
+        "pair": "MKR_RDD",
+        "rate": 541831.03742175,
+        "minerFee": 0.1,
+        "limit": 8.28345176,
+        "minimum": 3.6e-07,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "MKR",
+      "market_info": {
+        "pair": "RDD_MKR",
+        "rate": 1.61e-06,
+        "minerFee": 0.0007,
+        "limit": 3751201.13297663,
+        "minimum": 867.61046037,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "RCN",
+      "market_info": {
+        "pair": "MKR_RCN",
+        "rate": 8684.60316087,
+        "minerFee": 25.4089,
+        "limit": 7.86787328,
+        "minimum": 0.00570413,
+        "maxLimit": 7.86787328
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "MKR",
+      "market_info": {
+        "pair": "RCN_MKR",
+        "rate": 0.00010787,
+        "minerFee": 0.0007,
+        "limit": 66252.64368584,
+        "minimum": 12.81102895,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "RLC",
+      "market_info": {
+        "pair": "MKR_RLC",
+        "rate": 867.50277457,
+        "minerFee": 1,
+        "limit": 8.28345176,
+        "minimum": 0.00227573,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "MKR",
+      "market_info": {
+        "pair": "RLC_MKR",
+        "rate": 0.00110062,
+        "minerFee": 0.0007,
+        "limit": 7293.81738888,
+        "minimum": 1.26319059,
+        "maxLimit": 7293.81738888
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "SC",
+      "market_info": {
+        "pair": "MKR_SC",
+        "rate": 199946.11466492,
+        "minerFee": 5.588,
+        "limit": 8.28345176,
+        "minimum": 5.459e-05,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "SC",
+      "to": "MKR",
+      "market_info": {
+        "pair": "SC_MKR",
+        "rate": 4.66e-06,
+        "minerFee": 0.0007,
+        "limit": 1726634.0939299,
+        "minimum": 299.02968854,
+        "maxLimit": 1726634.0939299
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "SNT",
+      "market_info": {
+        "pair": "MKR_SNT",
+        "rate": 26590.9954198,
+        "minerFee": 45,
+        "limit": 8.28345176,
+        "minimum": 0.0033078,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "MKR",
+      "market_info": {
+        "pair": "SNT_MKR",
+        "rate": 3.545e-05,
+        "minerFee": 0.0007,
+        "limit": 225582.65852264,
+        "minimum": 39.06786757,
+        "maxLimit": 225582.65852264
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "MKR_TUSD",
+        "rate": 593.22894539,
+        "minerFee": 0.35,
+        "limit": 8.28345176,
+        "minimum": 0.00115964,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "MKR",
+      "market_info": {
+        "pair": "TUSD_MKR",
+        "rate": 0.00160317,
+        "minerFee": 0.0007,
+        "limit": 5009.18828098,
+        "minimum": 0.86752371,
+        "maxLimit": 5009.18828098
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "XMR",
+      "market_info": {
+        "pair": "MKR_XMR",
+        "rate": 6.50145584,
+        "minerFee": 0.001,
+        "limit": 8.28345176,
+        "minimum": 0.0003034,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "MKR",
+      "market_info": {
+        "pair": "XMR_MKR",
+        "rate": 0.14704014,
+        "minerFee": 0.0007,
+        "limit": 54.65984522,
+        "minimum": 0.00946635,
+        "maxLimit": 54.65984522
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "XRP",
+      "market_info": {
+        "pair": "MKR_XRP",
+        "rate": 1879.58336382,
+        "minerFee": 0.15,
+        "limit": 8.28345176,
+        "minimum": 0.00015749,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "MKR",
+      "market_info": {
+        "pair": "XRP_MKR",
+        "rate": 0.00050929,
+        "minerFee": 0.0007,
+        "limit": 15786.67971199,
+        "minimum": 2.73403956,
+        "maxLimit": 15786.67971199
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "MKR_ZEC",
+        "rate": 8.98496649,
+        "minerFee": 0.0005,
+        "limit": 8.28345176,
+        "minimum": 0.00010983,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "MKR",
+      "market_info": {
+        "pair": "ZEC_MKR",
+        "rate": 0.10633119,
+        "minerFee": 0.0007,
+        "limit": 75.58745121,
+        "minimum": 0.01309072,
+        "maxLimit": 75.58745121
+      }
+    },
+    {
+      "from": "MKR",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "MKR_ZRX",
+        "rate": 1835.19767145,
+        "minerFee": 2,
+        "limit": 8.28345176,
+        "minimum": 0.00214943,
+        "maxLimit": 8.28345176
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "MKR",
+      "market_info": {
+        "pair": "ZRX_MKR",
+        "rate": 0.00051776,
+        "minerFee": 0.0007,
+        "limit": 15456.58956544,
+        "minimum": 2.67687241,
+        "maxLimit": 15456.58956544
+      }
+    },
+    {
+      "from": "REP",
+      "to": "RDD",
+      "market_info": {
+        "pair": "REP_RDD",
+        "rate": 13462.23397139,
+        "minerFee": 0.1,
+        "limit": 335.42766371,
+        "minimum": 1.475e-05,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "REP",
+      "market_info": {
+        "pair": "RDD_REP",
+        "rate": 6.649e-05,
+        "minerFee": 0.04,
+        "limit": 3751201.13297663,
+        "minimum": 1196.55164131,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "REP",
+      "to": "RCN",
+      "market_info": {
+        "pair": "REP_RCN",
+        "rate": 215.54191806,
+        "minerFee": 25.4089,
+        "limit": 318.59935061,
+        "minimum": 0.23098119,
+        "maxLimit": 318.59935061
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "REP",
+      "market_info": {
+        "pair": "RCN_REP",
+        "rate": 0.00446645,
+        "minerFee": 0.04,
+        "limit": 66252.64368584,
+        "minimum": 17.66813382,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "REP",
+      "to": "RLC",
+      "market_info": {
+        "pair": "REP_RLC",
+        "rate": 21.55337989,
+        "minerFee": 1,
+        "limit": 335.42766371,
+        "minimum": 0.09215256,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "REP",
+      "market_info": {
+        "pair": "RLC_REP",
+        "rate": 0.04556097,
+        "minerFee": 0.04,
+        "limit": 7292.75523402,
+        "minimum": 1.74185621,
+        "maxLimit": 7292.75523402
+      }
+    },
+    {
+      "from": "REP",
+      "to": "SC",
+      "market_info": {
+        "pair": "REP_SC",
+        "rate": 4967.85760613,
+        "minerFee": 5.588,
+        "limit": 335.42766371,
+        "minimum": 0.00221071,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "SC",
+      "to": "REP",
+      "market_info": {
+        "pair": "SC_REP",
+        "rate": 0.00019278,
+        "minerFee": 0.04,
+        "limit": 1726634.0939299,
+        "minimum": 412.40220234,
+        "maxLimit": 1726634.0939299
+      }
+    },
+    {
+      "from": "REP",
+      "to": "SNT",
+      "market_info": {
+        "pair": "REP_SNT",
+        "rate": 660.12247673,
+        "minerFee": 45,
+        "limit": 335.42766371,
+        "minimum": 0.13454837,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "REP",
+      "market_info": {
+        "pair": "SNT_REP",
+        "rate": 0.00146738,
+        "minerFee": 0.04,
+        "limit": 225582.65852264,
+        "minimum": 53.87984954,
+        "maxLimit": 225582.65852264
+      }
+    },
+    {
+      "from": "REP",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "REP_TUSD",
+        "rate": 14.73881802,
+        "minerFee": 0.35,
+        "limit": 335.42766371,
+        "minimum": 0.04695818,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "REP",
+      "market_info": {
+        "pair": "TUSD_REP",
+        "rate": 0.06636213,
+        "minerFee": 0.04,
+        "limit": 5009.18828098,
+        "minimum": 1.196432,
+        "maxLimit": 5009.18828098
+      }
+    },
+    {
+      "from": "REP",
+      "to": "XMR",
+      "market_info": {
+        "pair": "REP_XMR",
+        "rate": 0.16153635,
+        "minerFee": 0.001,
+        "limit": 335.42766371,
+        "minimum": 0.01228567,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "REP",
+      "market_info": {
+        "pair": "XMR_REP",
+        "rate": 6.0873501,
+        "minerFee": 0.04,
+        "limit": 54.65984522,
+        "minimum": 0.01305537,
+        "maxLimit": 54.65984522
+      }
+    },
+    {
+      "from": "REP",
+      "to": "XRP",
+      "market_info": {
+        "pair": "REP_XRP",
+        "rate": 46.68358292,
+        "minerFee": 0.15,
+        "limit": 335.42766371,
+        "minimum": 0.00637897,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "REP",
+      "market_info": {
+        "pair": "XRP_REP",
+        "rate": 0.0211804,
+        "minerFee": 0.04,
+        "limit": 15658.41293933,
+        "minimum": 3.73997247,
+        "maxLimit": 15658.41293933
+      }
+    },
+    {
+      "from": "REP",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "REP_ZEC",
+        "rate": 0.2232428,
+        "minerFee": 0.0005,
+        "limit": 335.42766371,
+        "minimum": 0.0044474,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "REP",
+      "market_info": {
+        "pair": "ZEC_REP",
+        "rate": 4.40484325,
+        "minerFee": 0.04,
+        "limit": 75.54585939,
+        "minimum": 0.01804394,
+        "maxLimit": 75.54585939
+      }
+    },
+    {
+      "from": "REP",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "REP_ZRX",
+        "rate": 45.5211742,
+        "minerFee": 2,
+        "limit": 335.42766371,
+        "minimum": 0.08715215,
+        "maxLimit": 335.42766371
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "REP",
+      "market_info": {
+        "pair": "ZRX_REP",
+        "rate": 0.02141496,
+        "minerFee": 0.04,
+        "limit": 15455.55873098,
+        "minimum": 3.69152126,
+        "maxLimit": 15455.55873098
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "RCN",
+      "market_info": {
+        "pair": "RDD_RCN",
+        "rate": 0.0145308,
+        "minerFee": 25.4089,
+        "limit": 3751201.13297663,
+        "minimum": 3449.75709676,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "RDD",
+      "market_info": {
+        "pair": "RCN_RDD",
+        "rate": 60.67838034,
+        "minerFee": 0.1,
+        "limit": 66252.64368584,
+        "minimum": 0.00325369,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "RLC",
+      "market_info": {
+        "pair": "RDD_RLC",
+        "rate": 0.00144589,
+        "minerFee": 1,
+        "limit": 3751201.13297663,
+        "minimum": 1376.3196257,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "RDD",
+      "market_info": {
+        "pair": "RLC_RDD",
+        "rate": 619.16834564,
+        "minerFee": 0.1,
+        "limit": 7291.69338847,
+        "minimum": 0.00032073,
+        "maxLimit": 7291.69338847
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "SC",
+      "market_info": {
+        "pair": "RDD_SC",
+        "rate": 0.3339435,
+        "minerFee": 5.588,
+        "limit": 3751201.13297663,
+        "minimum": 33.01739594,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "SC",
+      "to": "RDD",
+      "market_info": {
+        "pair": "SC_RDD",
+        "rate": 2.61993967,
+        "minerFee": 0.1,
+        "limit": 1726634.0939299,
+        "minimum": 0.07594638,
+        "maxLimit": 1726634.0939299
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "SNT",
+      "market_info": {
+        "pair": "RDD_SNT",
+        "rate": 0.04456309,
+        "minerFee": 45,
+        "limit": 3751201.13297663,
+        "minimum": 2009.51075861,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "RDD",
+      "market_info": {
+        "pair": "SNT_RDD",
+        "rate": 19.88922131,
+        "minerFee": 0.1,
+        "limit": 225582.65852264,
+        "minimum": 0.0099223,
+        "maxLimit": 225582.65852264
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "RDD_TUSD",
+        "rate": 0.00098956,
+        "minerFee": 0.35,
+        "limit": 3751201.13297663,
+        "minimum": 701.33123299,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "RDD",
+      "market_info": {
+        "pair": "TUSD_RDD",
+        "rate": 901.88594628,
+        "minerFee": 0.1,
+        "limit": 5009.18828098,
+        "minimum": 0.00022033,
+        "maxLimit": 5009.18828098
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "XMR",
+      "market_info": {
+        "pair": "RDD_XMR",
+        "rate": 1.084e-05,
+        "minerFee": 0.001,
+        "limit": 3751201.13297663,
+        "minimum": 183.48925841,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "RDD",
+      "market_info": {
+        "pair": "XMR_RDD",
+        "rate": 82716.62766423,
+        "minerFee": 0.1,
+        "limit": 54.65984522,
+        "minimum": 2.4e-06,
+        "maxLimit": 54.65984522
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "XRP",
+      "market_info": {
+        "pair": "RDD_XRP",
+        "rate": 0.00313287,
+        "minerFee": 0.15,
+        "limit": 3751201.13297663,
+        "minimum": 95.27904524,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "RDD",
+      "market_info": {
+        "pair": "XRP_RDD",
+        "rate": 287.79422955,
+        "minerFee": 0.1,
+        "limit": 15658.41293933,
+        "minimum": 0.00068874,
+        "maxLimit": 15658.41293933
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "RDD_ZEC",
+        "rate": 1.498e-05,
+        "minerFee": 0.0005,
+        "limit": 3751201.13297663,
+        "minimum": 66.4330039,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "RDD",
+      "market_info": {
+        "pair": "ZEC_RDD",
+        "rate": 59826.44820361,
+        "minerFee": 0.1,
+        "limit": 75.54585939,
+        "minimum": 3.32e-06,
+        "maxLimit": 75.54585939
+      }
+    },
+    {
+      "from": "RDD",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "RDD_ZRX",
+        "rate": 0.00305431,
+        "minerFee": 2,
+        "limit": 3751201.13297663,
+        "minimum": 1301.63730985,
+        "maxLimit": 3751201.13297663
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "RDD",
+      "market_info": {
+        "pair": "ZRX_RDD",
+        "rate": 291.29665691,
+        "minerFee": 0.1,
+        "limit": 15455.55873098,
+        "minimum": 0.00067982,
+        "maxLimit": 15455.55873098
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "RLC",
+      "market_info": {
+        "pair": "RCN_RLC",
+        "rate": 0.09714763,
+        "minerFee": 1,
+        "limit": 66252.64368584,
+        "minimum": 20.32256569,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "RCN",
+      "market_info": {
+        "pair": "RLC_RCN",
+        "rate": 9.9435656,
+        "minerFee": 25.4089,
+        "limit": 6925.87114825,
+        "minimum": 5.02118395,
+        "maxLimit": 6925.87114825
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "SC",
+      "market_info": {
+        "pair": "RCN_SC",
+        "rate": 22.40749543,
+        "minerFee": 5.588,
+        "limit": 66252.64368584,
+        "minimum": 0.48753079,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "SC",
+      "to": "RCN",
+      "market_info": {
+        "pair": "SC_RCN",
+        "rate": 0.0420055,
+        "minerFee": 25.4089,
+        "limit": 1640009.33907018,
+        "minimum": 1188.9895723,
+        "maxLimit": 1640009.33907018
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "SNT",
+      "market_info": {
+        "pair": "RCN_SNT",
+        "rate": 2.99213992,
+        "minerFee": 45,
+        "limit": 66252.64368584,
+        "minimum": 29.67218779,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "RCN",
+      "market_info": {
+        "pair": "SNT_RCN",
+        "rate": 0.31988953,
+        "minerFee": 25.4089,
+        "limit": 214265.2389467,
+        "minimum": 155.34005127,
+        "maxLimit": 214265.2389467
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "RCN_TUSD",
+        "rate": 0.06645489,
+        "minerFee": 0.35,
+        "limit": 66252.64368584,
+        "minimum": 10.35577041,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "RCN",
+      "market_info": {
+        "pair": "TUSD_RCN",
+        "rate": 14.47282633,
+        "minerFee": 25.4089,
+        "limit": 4757.87869059,
+        "minimum": 3.44941216,
+        "maxLimit": 4757.87869059
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "XMR",
+      "market_info": {
+        "pair": "RCN_XMR",
+        "rate": 0.00072817,
+        "minerFee": 0.001,
+        "limit": 66252.64368584,
+        "minimum": 2.70937974,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "RCN",
+      "market_info": {
+        "pair": "XMR_RCN",
+        "rate": 1327.58569398,
+        "minerFee": 25.4089,
+        "limit": 51.91757591,
+        "minimum": 0.0376397,
+        "maxLimit": 51.91757591
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "XRP",
+      "market_info": {
+        "pair": "RCN_XRP",
+        "rate": 0.21059306,
+        "minerFee": 0.15,
+        "limit": 66252.64368584,
+        "minimum": 1.40599156,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "RCN",
+      "market_info": {
+        "pair": "XRP_RCN",
+        "rate": 4.61482178,
+        "minerFee": 25.4089,
+        "limit": 14872.83469369,
+        "minimum": 10.78264918,
+        "maxLimit": 14872.83469369
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "RCN_ZEC",
+        "rate": 0.00100623,
+        "minerFee": 0.0005,
+        "limit": 66252.64368584,
+        "minimum": 0.98094153,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "RCN",
+      "market_info": {
+        "pair": "ZEC_RCN",
+        "rate": 959.83658181,
+        "minerFee": 25.4089,
+        "limit": 71.79906875,
+        "minimum": 0.05205357,
+        "maxLimit": 71.79906875
+      }
+    },
+    {
+      "from": "RCN",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "RCN_ZRX",
+        "rate": 0.20522235,
+        "minerFee": 2,
+        "limit": 66252.64368584,
+        "minimum": 19.21981583,
+        "maxLimit": 66252.64368584
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "RCN",
+      "market_info": {
+        "pair": "ZRX_RCN",
+        "rate": 4.67575326,
+        "minerFee": 25.4089,
+        "limit": 14667.55567258,
+        "minimum": 10.63382405,
+        "maxLimit": 14667.55567258
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "SC",
+      "market_info": {
+        "pair": "RLC_SC",
+        "rate": 228.60283509,
+        "minerFee": 5.588,
+        "limit": 7291.69338847,
+        "minimum": 0.04805742,
+        "maxLimit": 7291.69338847
+      }
+    },
+    {
+      "from": "SC",
+      "to": "RLC",
+      "market_info": {
+        "pair": "SC_RLC",
+        "rate": 0.00419459,
+        "minerFee": 1,
+        "limit": 1726634.0939299,
+        "minimum": 474.36084258,
+        "maxLimit": 1726634.0939299
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "SNT",
+      "market_info": {
+        "pair": "RLC_SNT",
+        "rate": 30.52298006,
+        "minerFee": 45,
+        "limit": 7291.69338847,
+        "minimum": 2.92487931,
+        "maxLimit": 7291.69338847
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "RLC",
+      "market_info": {
+        "pair": "SNT_RLC",
+        "rate": 0.03192325,
+        "minerFee": 1,
+        "limit": 225582.65852264,
+        "minimum": 61.97467103,
+        "maxLimit": 225582.65852264
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "RLC_TUSD",
+        "rate": 0.67825183,
+        "minerFee": 0.35,
+        "limit": 7291.69338847,
+        "minimum": 1.02080032,
+        "maxLimit": 7291.69338847
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "RLC",
+      "market_info": {
+        "pair": "TUSD_RLC",
+        "rate": 1.44394569,
+        "minerFee": 1,
+        "limit": 5009.18828098,
+        "minimum": 1.37618201,
+        "maxLimit": 5009.18828098
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "XMR",
+      "market_info": {
+        "pair": "RLC_XMR",
+        "rate": 0.00743382,
+        "minerFee": 0.001,
+        "limit": 7291.69338847,
+        "minimum": 0.26707194,
+        "maxLimit": 7291.69338847
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "RLC",
+      "market_info": {
+        "pair": "XMR_RLC",
+        "rate": 132.4511485,
+        "minerFee": 1,
+        "limit": 54.65984522,
+        "minimum": 0.01501678,
+        "maxLimit": 54.65984522
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "XRP",
+      "market_info": {
+        "pair": "RLC_XRP",
+        "rate": 2.14980254,
+        "minerFee": 0.15,
+        "limit": 7291.69338847,
+        "minimum": 0.13859294,
+        "maxLimit": 7291.69338847
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "RLC",
+      "market_info": {
+        "pair": "XRP_RLC",
+        "rate": 0.4606957,
+        "minerFee": 1,
+        "limit": 15658.41293933,
+        "minimum": 4.30185989,
+        "maxLimit": 15658.41293933
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "RLC_ZEC",
+        "rate": 0.01027263,
+        "minerFee": 0.0005,
+        "limit": 7291.69338847,
+        "minimum": 0.09669444,
+        "maxLimit": 7291.69338847
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "RLC",
+      "market_info": {
+        "pair": "ZEC_RLC",
+        "rate": 95.79298685,
+        "minerFee": 1,
+        "limit": 75.58180403,
+        "minimum": 0.02076423,
+        "maxLimit": 75.58180403
+      }
+    },
+    {
+      "from": "RLC",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "RLC_ZRX",
+        "rate": 2.09462664,
+        "minerFee": 2,
+        "limit": 7291.86129185,
+        "minimum": 1.89455669,
+        "maxLimit": 7291.86129185
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "RLC",
+      "market_info": {
+        "pair": "ZRX_RLC",
+        "rate": 0.46640008,
+        "minerFee": 1,
+        "limit": 15442.64673217,
+        "minimum": 4.24248442,
+        "maxLimit": 15442.64673217
+      }
+    },
+    {
+      "from": "SC",
+      "to": "SNT",
+      "market_info": {
+        "pair": "SC_SNT",
+        "rate": 0.12868488,
+        "minerFee": 45,
+        "limit": 1726673.85255455,
+        "minimum": 692.59581773,
+        "maxLimit": 1726673.85255455
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "SC",
+      "market_info": {
+        "pair": "SNT_SC",
+        "rate": 7.36006643,
+        "minerFee": 5.588,
+        "limit": 225587.85293892,
+        "minimum": 1.48674931,
+        "maxLimit": 225587.85293892
+      }
+    },
+    {
+      "from": "SC",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "SC_TUSD",
+        "rate": 0.00286849,
+        "minerFee": 0.35,
+        "limit": 1726673.85255455,
+        "minimum": 241.72006879,
+        "maxLimit": 1726673.85255455
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "SC",
+      "market_info": {
+        "pair": "TUSD_SC",
+        "rate": 332.81627338,
+        "minerFee": 5.588,
+        "limit": 5009.30362588,
+        "minimum": 0.03301409,
+        "maxLimit": 5009.30362588
+      }
+    },
+    {
+      "from": "SC",
+      "to": "XMR",
+      "market_info": {
+        "pair": "SC_XMR",
+        "rate": 3.143e-05,
+        "minerFee": 0.001,
+        "limit": 1726673.85255455,
+        "minimum": 63.27571955,
+        "maxLimit": 1726673.85255455
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "SC",
+      "market_info": {
+        "pair": "XMR_SC",
+        "rate": 30530.73192103,
+        "minerFee": 5.588,
+        "limit": 54.64917433,
+        "minimum": 0.00036017,
+        "maxLimit": 54.64917433
+      }
+    },
+    {
+      "from": "SC",
+      "to": "XRP",
+      "market_info": {
+        "pair": "SC_XRP",
+        "rate": 0.00909275,
+        "minerFee": 0.15,
+        "limit": 1726673.85255455,
+        "minimum": 32.8180679,
+        "maxLimit": 1726673.85255455
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "SC",
+      "market_info": {
+        "pair": "XRP_SC",
+        "rate": 106.12609719,
+        "minerFee": 5.588,
+        "limit": 15658.77350035,
+        "minimum": 0.10320002,
+        "maxLimit": 15658.77350035
+      }
+    },
+    {
+      "from": "SC",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "SC_ZEC",
+        "rate": 4.345e-05,
+        "minerFee": 0.0005,
+        "limit": 1726673.85255455,
+        "minimum": 22.89672771,
+        "maxLimit": 1726673.85255455
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "SC",
+      "market_info": {
+        "pair": "ZEC_SC",
+        "rate": 22081.33802482,
+        "minerFee": 5.588,
+        "limit": 75.54759896,
+        "minimum": 0.0004979,
+        "maxLimit": 75.54759896
+      }
+    },
+    {
+      "from": "SC",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "SC_ZRX",
+        "rate": 0.00885869,
+        "minerFee": 2,
+        "limit": 1726673.85255455,
+        "minimum": 448.62091588,
+        "maxLimit": 1726673.85255455
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "SC",
+      "market_info": {
+        "pair": "ZRX_SC",
+        "rate": 107.50166713,
+        "minerFee": 5.588,
+        "limit": 15418.87418486,
+        "minimum": 0.10161895,
+        "maxLimit": 15418.87418486
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "SNT_TUSD",
+        "rate": 0.02184581,
+        "minerFee": 0.35,
+        "limit": 225587.85293892,
+        "minimum": 31.58043498,
+        "maxLimit": 225587.85293892
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "SNT",
+      "market_info": {
+        "pair": "TUSD_SNT",
+        "rate": 44.32919896,
+        "minerFee": 45,
+        "limit": 5009.30362588,
+        "minimum": 2.00930983,
+        "maxLimit": 5009.30362588
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "XMR",
+      "market_info": {
+        "pair": "SNT_XMR",
+        "rate": 0.00023934,
+        "minerFee": 0.001,
+        "limit": 225587.85293892,
+        "minimum": 8.26599461,
+        "maxLimit": 225587.85293892
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "SNT",
+      "market_info": {
+        "pair": "XMR_SNT",
+        "rate": 4067.20164988,
+        "minerFee": 45,
+        "limit": 54.64917433,
+        "minimum": 0.02192064,
+        "maxLimit": 54.64917433
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "XRP",
+      "market_info": {
+        "pair": "SNT_XRP",
+        "rate": 0.06922034,
+        "minerFee": 0.15,
+        "limit": 225587.85293892,
+        "minimum": 4.28764092,
+        "maxLimit": 225587.85293892
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "SNT",
+      "market_info": {
+        "pair": "XRP_SNT",
+        "rate": 14.07529237,
+        "minerFee": 45,
+        "limit": 15788.8577253,
+        "minimum": 6.33315713,
+        "maxLimit": 15788.8577253
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "SNT_ZEC",
+        "rate": 0.00033076,
+        "minerFee": 0.0005,
+        "limit": 225587.85293892,
+        "minimum": 2.99081884,
+        "maxLimit": 225587.85293892
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "SNT",
+      "market_info": {
+        "pair": "ZEC_SNT",
+        "rate": 2940.61757832,
+        "minerFee": 45,
+        "limit": 75.59321261,
+        "minimum": 0.03032162,
+        "maxLimit": 75.59321261
+      }
+    },
+    {
+      "from": "SNT",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "SNT_ZRX",
+        "rate": 0.0674418,
+        "minerFee": 2,
+        "limit": 225587.85293892,
+        "minimum": 58.61178071,
+        "maxLimit": 225587.85293892
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "SNT",
+      "market_info": {
+        "pair": "ZRX_SNT",
+        "rate": 14.32356,
+        "minerFee": 45,
+        "limit": 15418.87418486,
+        "minimum": 6.18475096,
+        "maxLimit": 15418.87418486
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "XMR",
+      "market_info": {
+        "pair": "TUSD_XMR",
+        "rate": 0.01081531,
+        "minerFee": 0.001,
+        "limit": 5009.30362588,
+        "minimum": 0.18353098,
+        "maxLimit": 5009.30362588
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "XMR_TUSD",
+        "rate": 90.59858569,
+        "minerFee": 0.35,
+        "limit": 54.64917433,
+        "minimum": 0.00765043,
+        "maxLimit": 54.64917433
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "XRP",
+      "market_info": {
+        "pair": "TUSD_XRP",
+        "rate": 3.12732883,
+        "minerFee": 0.15,
+        "limit": 5009.30362588,
+        "minimum": 0.09520945,
+        "maxLimit": 5009.30362588
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "XRP_TUSD",
+        "rate": 0.31357032,
+        "minerFee": 0.35,
+        "limit": 15788.8577253,
+        "minimum": 2.21030959,
+        "maxLimit": 15788.8577253
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "TUSD_ZEC",
+        "rate": 0.0149452,
+        "minerFee": 0.0005,
+        "limit": 5009.30362588,
+        "minimum": 0.06641279,
+        "maxLimit": 5009.30362588
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "ZEC_TUSD",
+        "rate": 65.49793341,
+        "minerFee": 0.35,
+        "limit": 75.59321261,
+        "minimum": 0.01058243,
+        "maxLimit": 75.59321261
+      }
+    },
+    {
+      "from": "TUSD",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "TUSD_ZRX",
+        "rate": 3.04732429,
+        "minerFee": 2,
+        "limit": 5009.30362588,
+        "minimum": 1.30150716,
+        "maxLimit": 5009.30362588
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "TUSD",
+      "market_info": {
+        "pair": "ZRX_TUSD",
+        "rate": 0.31908279,
+        "minerFee": 0.35,
+        "limit": 15418.87418486,
+        "minimum": 2.15851495,
+        "maxLimit": 15418.87418486
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "XRP",
+      "market_info": {
+        "pair": "XMR_XRP",
+        "rate": 286.93549207,
+        "minerFee": 0.15,
+        "limit": 114.76326608,
+        "minimum": 0.00103869,
+        "maxLimit": 114.76326608
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "XMR",
+      "market_info": {
+        "pair": "XRP_XMR",
+        "rate": 0.00343403,
+        "minerFee": 0.001,
+        "limit": 33156.60122313,
+        "minimum": 0.57840942,
+        "maxLimit": 33156.60122313
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "XMR_ZEC",
+        "rate": 1.37133995,
+        "minerFee": 0.0005,
+        "limit": 114.76326608,
+        "minimum": 0.00072468,
+        "maxLimit": 114.76326608
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "XMR",
+      "market_info": {
+        "pair": "ZEC_XMR",
+        "rate": 0.71750899,
+        "minerFee": 0.001,
+        "limit": 158.74574648,
+        "minimum": 0.00276928,
+        "maxLimit": 158.74574648
+      }
+    },
+    {
+      "from": "XMR",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "XMR_ZRX",
+        "rate": 279.66762345,
+        "minerFee": 2,
+        "limit": 54.64917433,
+        "minimum": 0.01419884,
+        "maxLimit": 54.64917433
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "XMR",
+      "market_info": {
+        "pair": "ZRX_XMR",
+        "rate": 0.00349726,
+        "minerFee": 0.001,
+        "limit": 15418.87418486,
+        "minimum": 0.56485543,
+        "maxLimit": 15418.87418486
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "XRP_ZEC",
+        "rate": 0.00474669,
+        "minerFee": 0.0005,
+        "limit": 33156.60122313,
+        "minimum": 0.20936969,
+        "maxLimit": 33156.60122313
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "XRP",
+      "market_info": {
+        "pair": "ZEC_XRP",
+        "rate": 207.46394557,
+        "minerFee": 0.15,
+        "limit": 158.74574648,
+        "minimum": 0.00143676,
+        "maxLimit": 158.74574648
+      }
+    },
+    {
+      "from": "XRP",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "XRP_ZRX",
+        "rate": 0.96799201,
+        "minerFee": 2,
+        "limit": 15788.8577253,
+        "minimum": 4.10222915,
+        "maxLimit": 15788.8577253
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "XRP",
+      "market_info": {
+        "pair": "ZRX_XRP",
+        "rate": 1.01101436,
+        "minerFee": 0.15,
+        "limit": 15418.87418486,
+        "minimum": 0.2930592,
+        "maxLimit": 15418.87418486
+      }
+    },
+    {
+      "from": "ZEC",
+      "to": "ZRX",
+      "market_info": {
+        "pair": "ZEC_ZRX",
+        "rate": 202.20053375,
+        "minerFee": 2,
+        "limit": 75.59321261,
+        "minimum": 0.01964048,
+        "maxLimit": 75.59321261
+      }
+    },
+    {
+      "from": "ZRX",
+      "to": "ZEC",
+      "market_info": {
+        "pair": "ZRX_ZEC",
+        "rate": 0.00483154,
+        "minerFee": 0.0005,
+        "limit": 15418.87418486,
+        "minimum": 0.20442173,
+        "maxLimit": 15418.87418486
+      }
+    }
+  ]
+}
