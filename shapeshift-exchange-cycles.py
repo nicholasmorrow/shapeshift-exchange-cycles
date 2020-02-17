@@ -119,6 +119,10 @@ class CoinGraph:
         # print(cycles)
         return cycles
 
+    def get_cycle_basis(self):
+        cycles = list(nx.cycle_basis(self.graph))
+        print(cycles)
+
     def get_rate_for_cycle(self, path):
         cycle_rate = 1.0
         # cyclic_path = cycle(path)
@@ -296,8 +300,8 @@ Copyright (C) 2020 Nicholas Morrow\n\
 Written by Nicholas Morrow <nickhudspeth@gmail.com> ",
 )
 @click.option(
-    "--data",
-    "-d",
+    "--market_data",
+    "-m",
     type=click.Path(
         exists=True, dir_okay=False, readable=True, resolve_path=True, allow_dash=False
     ),
@@ -313,24 +317,25 @@ Written by Nicholas Morrow <nickhudspeth@gmail.com> ",
     required=False,
     help="Analyze market data for profitable cycles without executing transactions.",
 )
-def main(data, dry_run):
+def main(market_data, dry_run):
     """
     This utility searches cryptocurrency market data provided by ShapeShift to
     determine whether or not exchange cycles exist which allow for
     profits to be made through a sequence of currency conversions.
     """
     # Get exchange data from ShapeShift API or local file
-    if data is None:
+    if market_data is None:
         exchange_data = get_exchange_pairs()
     else:
-        exchange_data = load_exchange_pairs(data)
+        exchange_data = load_exchange_pairs(market_data)
     # Assemble directed graph from exchange data
     graph = CoinGraph(exchange_data)
     # Verify that the path is strongly connected so that Johnson's algorithm can be used.
     # if not graph.is_strongly_connected():
     #     sys.exit(0)
     # For each strongly connected component, use Johnson's algorithm to find all elementary cycles and append each cycle to a list
-    graph.get_profitable_cycles()
+    graph.get_cycle_basis()
+    # graph.get_profitable_cycles()
     # For each cycle in the list, remove the cycle if the product of the exchange rates across the cycle is less than 1.
     # Print the list of cycles
 
