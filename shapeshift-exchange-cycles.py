@@ -276,21 +276,6 @@ def get_current_coins():
     return coins.json()
 
 
-def is_strongly_connected():
-    pass
-
-
-def find_cycles(graph):
-    cycles = []
-    visited = []
-    __find_cycles(graph, cycles, visited)
-
-
-def __find_cycles(graph, cycles, visited):
-    for node in graph:
-        pass
-
-
 @click.command()
 @click.version_option(
     version=0.1,
